@@ -1276,5 +1276,1007 @@
       "duration": "6h 0m",
       "image": "https://res.cloudinary.com/dsysrrxod/image/upload/v1718552785/Air_india_logo_tkar2t.png"
     }
+  ],
+  "indiaPackages": [
+    {
+      "id": 1,
+      "name": "Golden Triangle Tour",
+      "description": "Explore the best of India with the Golden Triangle Tour, covering Delhi, Agra, and Jaipur, where you can marvel at the architectural wonders of the Taj Mahal, the majestic forts of Jaipur, and the historical sites of Delhi, all while enjoying comfortable 3-star hotel accommodations, daily breakfasts, and city tours, with included flight tickets and monument entrance fees, making this a comprehensive and delightful journey through India's rich cultural heritage.",
+      "price": 700,
+      "currency": "USD",
+      "destination": "Delhi, Agra, Jaipur",
+      "duration": {
+        "days": 6,
+        "nights": 5
+      },
+      "inclusions": [
+        "Flight tickets",
+        "3-star hotel accommodation",
+        "Daily breakfast",
+        "City tours",
+        "Monument entrance fees"
+      ],
+      "exclusions": [
+        "Travel insurance",
+        "Lunch and dinner",
+        "Personal expenses"
+      ],
+      "images": [
+        "https://example.com/images/golden_triangle1.jpg",
+        "https://example.com/images/golden_triangle2.jpg"
+      ],
+      "reviews": [
+        {
+          "reviewer": "Raj Patel",
+          "rating": 4.5,
+          "comment": "Great way to see the main sights of India!"
+        },
+        {
+          "reviewer": "Sara Khan",
+          "rating": 4.0,
+          "comment": "Enjoyed the trip, but the schedule was a bit tight."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Kerala Backwaters",
+      "description": "Relax and unwind with a serene houseboat cruise on the backwaters of Kerala, where you will stay on a charming houseboat, enjoy all meals provided, and embark on guided village tours and canoe rides, immersing yourself in the tranquil beauty and unique culture of this picturesque region, while experiencing the hospitality and traditions that make Kerala a beloved destination for travelers seeking peace and natural beauty.",
+      "price": 500,
+      "currency": "USD",
+      "destination": "Alleppey, Kerala",
+      "duration": {
+        "days": 4,
+        "nights": 3
+      },
+      "inclusions": [
+        "Houseboat stay",
+        "All meals",
+        "Guided village tours",
+        "Canoe rides"
+      ],
+      "exclusions": [
+        "Travel insurance",
+        "Personal expenses"
+      ],
+      "images": [
+        "https://example.com/images/kerala_backwaters1.jpg",
+        "https://example.com/images/kerala_backwaters2.jpg"
+      ],
+      "reviews": [
+        {
+          "reviewer": "Anil Gupta",
+          "rating": 5.0,
+          "comment": "A beautiful and relaxing experience."
+        },
+        {
+          "reviewer": "Neha Verma",
+          "rating": 4.5,
+          "comment": "Loved the backwaters, food on the boat was amazing!"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Goa Beach Holiday",
+      "description": "Enjoy the sun, sand, and sea with a relaxing holiday on the beaches of Goa, staying in a luxurious 4-star resort with daily breakfasts, participating in thrilling beach activities, and exploring the vibrant city with guided tours, all while basking in the tropical paradise that offers both relaxation and excitement, with flight tickets included for a seamless travel experience to one of India's most famous beach destinations.",
+      "price": 600,
+      "currency": "USD",
+      "destination": "Goa",
+      "duration": {
+        "days": 5,
+        "nights": 4
+      },
+      "inclusions": [
+        "Flight tickets",
+        "4-star resort accommodation",
+        "Daily breakfast",
+        "Beach activities",
+        "City tour"
+      ],
+      "exclusions": [
+        "Travel insurance",
+        "Lunch and dinner",
+        "Personal expenses"
+      ],
+      "images": [
+        "https://example.com/images/goa_beach1.jpg",
+        "https://example.com/images/goa_beach2.jpg"
+      ],
+      "reviews": [
+        {
+          "reviewer": "Vikram Rao",
+          "rating": 4.8,
+          "comment": "Perfect getaway with lots of fun activities."
+        },
+        {
+          "reviewer": "Priya Sharma",
+          "rating": 4.5,
+          "comment": "Loved the beaches and the vibrant nightlife."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Himalayan Adventure",
+      "description": "Experience the thrill of the Himalayas with trekking, camping, and breathtaking views, as you embark on a week-long adventure in Manali, Himachal Pradesh, where you'll be provided with flight tickets, camping equipment, guided treks, and all meals during the trek, ensuring a safe and exhilarating journey through the stunning landscapes and challenging terrains of the majestic Himalayan mountains.",
+      "price": 800,
+      "currency": "USD",
+      "destination": "Manali, Himachal Pradesh",
+      "duration": {
+        "days": 7,
+        "nights": 6
+      },
+      "inclusions": [
+        "Flight tickets",
+        "Camping equipment",
+        "Guided treks",
+        "All meals during trek"
+      ],
+      "exclusions": [
+        "Travel insurance",
+        "Personal expenses"
+      ],
+      "images": [
+        "https://example.com/images/himalayan_adventure1.jpg",
+        "https://example.com/images/himalayan_adventure2.jpg"
+      ],
+      "reviews": [
+        {
+          "reviewer": "Rohan Mehta",
+          "rating": 5.0,
+          "comment": "An unforgettable adventure!"
+        },
+        {
+          "reviewer": "Sana Ali",
+          "rating": 4.7,
+          "comment": "Amazing trek with stunning views."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Rajasthan Heritage Tour",
+      "description": "Discover the royal heritage of Rajasthan with visits to palaces, forts, and cultural sites in Jaipur, Udaipur, and Jodhpur, staying in comfortable 4-star hotels with daily breakfasts, guided tours, and cultural shows included, and enjoy flight tickets and local transportation arranged for a seamless journey through this historic and vibrant region, where the grandeur and legacy of Rajasthan's royal past come to life.",
+      "price": 900,
+      "currency": "USD",
+      "destination": "Jaipur, Udaipur, Jodhpur",
+      "duration": {
+        "days": 8,
+        "nights": 7
+      },
+      "inclusions": [
+        "Flight tickets",
+        "4-star hotel accommodation",
+        "Daily breakfast",
+        "Guided tours",
+        "Cultural shows"
+      ],
+      "exclusions": [
+        "Travel insurance",
+        "Lunch and dinner",
+        "Personal expenses"
+      ],
+      "images": [
+        "https://example.com/images/rajasthan_heritage1.jpg",
+        "https://example.com/images/rajasthan_heritage2.jpg"
+      ],
+      "reviews": [
+        {
+          "reviewer": "Arjun Singh",
+          "rating": 4.8,
+          "comment": "A wonderful journey through Rajasthan's rich history."
+        },
+        {
+          "reviewer": "Lakshmi Nair",
+          "rating": 4.5,
+          "comment": "Loved the palaces and the cultural experiences."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Sikkim Scenic Tour",
+      "description": "Explore the picturesque landscapes and monasteries of Sikkim, with visits to Gangtok, Pelling, and Yumthang Valley, where you will stay in comfortable 3-star hotels, enjoy daily breakfasts, and partake in monastery tours and nature walks, while experiencing the serene beauty and cultural richness of this enchanting region, making for a peaceful and rejuvenating travel experience.",
+      "price": 750,
+      "currency": "USD",
+      "destination": "Gangtok, Sikkim",
+      "duration": {
+        "days": 6,
+        "nights": 5
+      },
+      "inclusions": [
+        "Flight tickets",
+        "3-star hotel accommodation",
+        "Daily breakfast",
+        "Monastery tours",
+        "Nature walks"
+      ],
+      "exclusions": [
+        "Travel insurance",
+        "Lunch and dinner",
+        "Personal expenses"
+      ],
+      "images": [
+        "https://example.com/images/sikkim_scenic1.jpg",
+        "https://example.com/images/sikkim_scenic2.jpg"
+      ],
+      "reviews": [
+        {
+          "reviewer": "Kiran Desai",
+          "rating": 4.7,
+          "comment": "Beautiful and serene, a must-visit place."
+        },
+        {
+          "reviewer": "Aditi Rao",
+          "rating": 4.6,
+          "comment": "Loved the monasteries and the peaceful environment."
+        }
+      ]
+    },
+      {
+        "id": 7,
+        "name": "Andaman Islands Escape",
+        "description": "Experience a tropical paradise in the Andaman Islands, featuring pristine beaches, crystal-clear waters, and luxurious 5-star resort accommodations. Enjoy daily breakfast and indulge in beach activities, snorkeling, and diving in this serene getaway.",
+        "price": 950,
+        "currency": "USD",
+        "destination": "Andaman Islands",
+        "duration": {
+          "days": 7,
+          "nights": 6
+        },
+        "inclusions": [
+          "Flight tickets",
+          "5-star resort accommodation",
+          "Daily breakfast",
+          "Beach activities",
+          "Snorkeling and diving"
+        ],
+        "exclusions": [
+          "Travel insurance",
+          "Lunch and dinner",
+          "Personal expenses"
+        ],
+        "images": [
+          "https://example.com/images/andaman_escape1.jpg",
+          "https://example.com/images/andaman_escape2.jpg"
+        ],
+        "reviews": [
+          {
+            "reviewer": "Ravi Kumar",
+            "rating": 5.0,
+            "comment": "A perfect escape to paradise!"
+          },
+          {
+            "reviewer": "Maya Singh",
+            "rating": 4.8,
+            "comment": "Beautiful beaches and amazing water activities."
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Spiritual Varanasi",
+        "description": "Immerse yourself in the spiritual aura of Varanasi, India's holiest city. This package includes flights, 3-star hotel stays, daily breakfast, and a mesmerizing Ganga Aarti experience. Explore ancient temples and soak in the spiritual essence of this sacred city.",
+        "price": 650,
+        "currency": "USD",
+        "destination": "Varanasi, Uttar Pradesh",
+        "duration": {
+          "days": 5,
+          "nights": 4
+        },
+        "inclusions": [
+          "Flight tickets",
+          "3-star hotel accommodation",
+          "Daily breakfast",
+          "Ganga Aarti experience",
+          "Temple tours"
+        ],
+        "exclusions": [
+          "Travel insurance",
+          "Lunch and dinner",
+          "Personal expenses"
+        ],
+        "images": [
+          "https://example.com/images/varanasi_spiritual1.jpg",
+          "https://example.com/images/varanasi_spiritual2.jpg"
+        ],
+        "reviews": [
+          {
+            "reviewer": "Ashok Bansal",
+            "rating": 4.7,
+            "comment": "A deeply spiritual and moving experience."
+          },
+          {
+            "reviewer": "Sunita Rao",
+            "rating": 4.5,
+            "comment": "The Ganga Aarti was mesmerizing."
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Leh-Ladakh Adventure",
+        "description": "Embark on an adventurous journey through the rugged landscapes of Leh and Ladakh. This expedition includes flights, camping equipment, guided tours, and all meals during adventurous activities. Discover breathtaking views and challenge yourself with thrilling treks.",
+        "price": 1000,
+        "currency": "USD",
+        "destination": "Leh, Ladakh",
+        "duration": {
+          "days": 9,
+          "nights": 8
+        },
+        "inclusions": [
+          "Flight tickets",
+          "Camping equipment",
+          "Guided tours",
+          "All meals during adventure activities"
+        ],
+        "exclusions": [
+          "Travel insurance",
+          "Personal expenses"
+        ],
+        "images": [
+          "https://example.com/images/leh_ladakh1.jpg",
+          "https://example.com/images/leh_ladakh2.jpg"
+        ],
+        "reviews": [
+          {
+            "reviewer": "Rajesh Khanna",
+            "rating": 5.0,
+            "comment": "An unforgettable adventure with stunning views."
+          },
+          {
+            "reviewer": "Anita Kapoor",
+            "rating": 4.8,
+            "comment": "Loved the rugged beauty and challenging treks."
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Cultural Tamil Nadu",
+        "description": "Delve into the rich cultural heritage of Tamil Nadu with temple tours and cultural performances. This package covers flights, 3-star hotel accommodations, daily breakfast, visits to ancient temples, and traditional cultural shows. Experience the vibrant heritage of Chennai, Madurai, and Thanjavur.",
+        "price": 850,
+        "currency": "USD",
+        "destination": "Chennai, Madurai, Thanjavur",
+        "duration": {
+          "days": 7,
+          "nights": 6
+        },
+        "inclusions": [
+          "Flight tickets",
+          "3-star hotel accommodation",
+          "Daily breakfast",
+          "Temple tours",
+          "Cultural performances"
+        ],
+        "exclusions": [
+          "Travel insurance",
+          "Lunch and dinner",
+          "Personal expenses"
+        ],
+        "images": [
+          "https://example.com/images/tamil_nadu1.jpg",
+          "https://example.com/images/tamil_nadu2.jpg"
+        ],
+        "reviews": [
+          {
+            "reviewer": "Meera Krishnan",
+            "rating": 4.7,
+            "comment": "A rich cultural experience with beautiful temples."
+          },
+          {
+            "reviewer": "Naveen Reddy",
+            "rating": 4.6,
+            "comment": "Loved the heritage sites and cultural shows."
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Serene Sikkim",
+        "description": "Experience the tranquility and natural beauty of Sikkim with visits to Gangtok, Pelling, and Yumthang Valley.",
+        "price": 850,
+        "currency": "USD",
+        "destination": "Sikkim",
+        "duration": {
+          "days": 8,
+          "nights": 7
+        },
+        "inclusions": [
+          "Flight tickets",
+          "4-star hotel accommodation",
+          "Daily breakfast",
+          "Sightseeing tours",
+          "Local transportation"
+        ],
+        "exclusions": [
+          "Travel insurance",
+          "Lunch and dinner",
+          "Personal expenses"
+        ],
+        "images": [
+          "https://example.com/images/sikkim1.jpg",
+          "https://example.com/images/sikkim2.jpg"
+        ],
+        "reviews": [
+          {
+            "reviewer": "Manish Patel",
+            "rating": 4.8,
+            "comment": "Sikkim is stunning! The scenery is breathtaking."
+          },
+          {
+            "reviewer": "Rita Singh",
+            "rating": 4.7,
+            "comment": "Loved the peace and beauty of this place."
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Darjeeling Tea Tour",
+        "description": "Discover the tea gardens and scenic beauty of Darjeeling, the Queen of Hills.",
+        "price": 750,
+        "currency": "USD",
+        "destination": "Darjeeling, West Bengal",
+        "duration": {
+          "days": 5,
+          "nights": 4
+        },
+        "inclusions": [
+          "Flight tickets",
+          "3-star hotel accommodation",
+          "Daily breakfast",
+          "Tea garden tours",
+          "Toy train ride"
+        ],
+        "exclusions": [
+          "Travel insurance",
+          "Lunch and dinner",
+          "Personal expenses"
+        ],
+        "images": [
+          "https://example.com/images/darjeeling1.jpg",
+          "https://example.com/images/darjeeling2.jpg"
+        ],
+        "reviews": [
+          {
+            "reviewer": "Amit Sharma",
+            "rating": 4.5,
+            "comment": "Beautiful place, the tea gardens are amazing!"
+          },
+          {
+            "reviewer": "Kavita Rao",
+            "rating": 4.6,
+            "comment": "Great experience, especially the toy train ride."
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Ladakh Adventure",
+        "description": "Explore the rugged terrain and stunning landscapes of Ladakh with this adventure-packed tour.",
+        "price": 1100,
+        "currency": "USD",
+        "destination": "Ladakh, Jammu and Kashmir",
+        "duration": {
+          "days": 10,
+          "nights": 9
+        },
+        "inclusions": [
+          "Flight tickets",
+          "Camping and hotel accommodation",
+          "All meals",
+          "Guided tours",
+          "Adventure activities"
+        ],
+        "exclusions": [
+          "Travel insurance",
+          "Personal expenses"
+        ],
+        "images": [
+          "https://example.com/images/ladakh1.jpg",
+          "https://example.com/images/ladakh2.jpg"
+        ],
+        "reviews": [
+          {
+            "reviewer": "Nikhil Verma",
+            "rating": 5.0,
+            "comment": "An incredible adventure, Ladakh is a must-visit!"
+          },
+          {
+            "reviewer": "Priya Nair",
+            "rating": 4.9,
+            "comment": "Loved the adventure activities and the scenic beauty."
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Rann of Kutch Festival",
+        "description": "Experience the vibrant Rann Utsav in the white desert of Kutch, Gujarat.",
+        "price": 900,
+        "currency": "USD",
+        "destination": "Kutch, Gujarat",
+        "duration": {
+          "days": 6,
+          "nights": 5
+        },
+        "inclusions": [
+          "Flight tickets",
+          "Tent accommodation",
+          "Daily breakfast",
+          "Festival passes",
+          "Cultural tours"
+        ],
+        "exclusions": [
+          "Travel insurance",
+          "Lunch and dinner",
+          "Personal expenses"
+        ],
+        "images": [
+          "https://example.com/images/kutch1.jpg",
+          "https://example.com/images/kutch2.jpg"
+        ],
+        "reviews": [
+          {
+            "reviewer": "Rajesh Desai",
+            "rating": 4.7,
+            "comment": "The Rann Utsav is spectacular, a unique experience!"
+          },
+          {
+            "reviewer": "Meena Shah",
+            "rating": 4.6,
+            "comment": "Loved the cultural performances and the white desert."
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Mysore and Coorg Retreat",
+        "description": "A relaxing retreat to the historical city of Mysore and the coffee plantations of Coorg.",
+        "price": 800,
+        "currency": "USD",
+        "destination": "Mysore and Coorg, Karnataka",
+        "duration": {
+          "days": 7,
+          "nights": 6
+        },
+        "inclusions": [
+          "Flight tickets",
+          "4-star hotel accommodation",
+          "Daily breakfast",
+          "City tours",
+          "Coffee plantation visit"
+        ],
+        "exclusions": [
+          "Travel insurance",
+          "Lunch and dinner",
+          "Personal expenses"
+        ],
+        "images": [
+          "https://example.com/images/mysore1.jpg",
+          "https://example.com/images/coorg1.jpg"
+        ],
+        "reviews": [
+          {
+            "reviewer": "Anil Kumar",
+            "rating": 4.8,
+            "comment": "A perfect blend of history and nature, loved it!"
+          },
+          {
+            "reviewer": "Geeta Pillai",
+            "rating": 4.7,
+            "comment": "Beautiful places, the coffee plantations were a highlight."
+          }
+        ]
+      }
+    ],
+
+  "internationalPackages": [
+        {
+          "id": 1,
+          "name": "Romantic Paris Getaway",
+          "description": "Experience the romance of Paris with a 5-day getaway including a Seine River cruise and Eiffel Tower visit.",
+          "price": 1200,
+          "currency": "USD",
+          "destination": "Paris, France",
+          "duration": {
+            "days": 5,
+            "nights": 4
+          },
+          "inclusions": [
+            "Flight tickets",
+            "4-star hotel accommodation",
+            "Daily breakfast",
+            "Seine River cruise",
+            "Eiffel Tower tour"
+          ],
+          "exclusions": [
+            "Travel insurance",
+            "Lunch and dinner",
+            "Personal expenses"
+          ],
+          "images": [
+            "https://example.com/images/paris1.jpg",
+            "https://example.com/images/paris2.jpg"
+          ],
+          "reviews": [
+            {
+              "reviewer": "Jane Doe",
+              "rating": 4.5,
+              "comment": "Amazing experience, highly recommended!"
+            },
+            {
+              "reviewer": "John Smith",
+              "rating": 4.0,
+              "comment": "Great trip but hotel could have been better."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Adventure in the Swiss Alps",
+          "description": "A thrilling 7-day adventure in the Swiss Alps with skiing, hiking, and breathtaking scenery.",
+          "price": 1800,
+          "currency": "USD",
+          "destination": "Swiss Alps, Switzerland",
+          "duration": {
+            "days": 7,
+            "nights": 6
+          },
+          "inclusions": [
+            "Flight tickets",
+            "5-star resort accommodation",
+            "Daily breakfast and dinner",
+            "Ski pass",
+            "Guided hiking tours"
+          ],
+          "exclusions": [
+            "Travel insurance",
+            "Lunch",
+            "Personal expenses"
+          ],
+          "images": [
+            "https://example.com/images/swiss1.jpg",
+            "https://example.com/images/swiss2.jpg"
+          ],
+          "reviews": [
+            {
+              "reviewer": "Alice Brown",
+              "rating": 5.0,
+              "comment": "The best adventure trip I've ever had!"
+            },
+            {
+              "reviewer": "Bob Johnson",
+              "rating": 4.8,
+              "comment": "Stunning views and great activities."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Beach Paradise in Maldives",
+          "description": "Relax on the white sandy beaches of Maldives with luxury resort stays and water sports activities.",
+          "price": 2500,
+          "currency": "USD",
+          "destination": "Maldives",
+          "duration": {
+            "days": 6,
+            "nights": 5
+          },
+          "inclusions": [
+            "Flight tickets",
+            "5-star resort accommodation",
+            "All meals",
+            "Water sports activities",
+            "Spa treatment"
+          ],
+          "exclusions": [
+            "Travel insurance",
+            "Personal expenses"
+          ],
+          "images": [
+            "https://example.com/images/maldives1.jpg",
+            "https://example.com/images/maldives2.jpg"
+          ],
+          "reviews": [
+            {
+              "reviewer": "Chris White",
+              "rating": 5.0,
+              "comment": "A true paradise, loved every moment!"
+            },
+            {
+              "reviewer": "Emma Green",
+              "rating": 4.7,
+              "comment": "Amazing resort and fantastic water activities."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Cultural Tour of Japan",
+          "description": "Explore the rich culture of Japan with visits to Tokyo, Kyoto, and Osaka, including temples and traditional experiences.",
+          "price": 2200,
+          "currency": "USD",
+          "destination": "Japan",
+          "duration": {
+            "days": 8,
+            "nights": 7
+          },
+          "inclusions": [
+            "Flight tickets",
+            "4-star hotel accommodation",
+            "Daily breakfast",
+            "City tours",
+            "Cultural experiences"
+          ],
+          "exclusions": [
+            "Travel insurance",
+            "Lunch and dinner",
+            "Personal expenses"
+          ],
+          "images": [
+            "https://example.com/images/japan1.jpg",
+            "https://example.com/images/japan2.jpg"
+          ],
+          "reviews": [
+            {
+              "reviewer": "Sophie Lee",
+              "rating": 5.0,
+              "comment": "Incredible cultural experience, Japan is beautiful."
+            },
+            {
+              "reviewer": "Daniel Kim",
+              "rating": 4.8,
+              "comment": "Loved the temples and the cultural activities."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Safari Adventure in Kenya",
+          "description": "Experience the thrill of a safari adventure in Kenya with guided tours and luxury tent stays.",
+          "price": 3000,
+          "currency": "USD",
+          "destination": "Kenya",
+          "duration": {
+            "days": 7,
+            "nights": 6
+          },
+          "inclusions": [
+            "Flight tickets",
+            "Luxury tent accommodation",
+            "All meals",
+            "Guided safari tours",
+            "Park entrance fees"
+          ],
+          "exclusions": [
+            "Travel insurance",
+            "Personal expenses"
+          ],
+          "images": [
+            "https://example.com/images/kenya_safari1.jpg",
+            "https://example.com/images/kenya_safari2.jpg"
+          ],
+          "reviews": [
+            {
+              "reviewer": "Mark Johnson",
+              "rating": 5.0,
+              "comment": "An unforgettable safari experience!"
+            },
+            {
+              "reviewer": "Rachel Brown",
+              "rating": 4.9,
+              "comment": "Amazing wildlife and great guides."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Historical Egypt Tour",
+          "description": "Discover the ancient wonders of Egypt with visits to the pyramids, Nile cruise, and historical sites.",
+          "price": 2100,
+          "currency": "USD",
+          "destination": "Egypt",
+          "duration": {
+            "days": 10,
+            "nights": 9
+          },
+          "inclusions": [
+            "Flight tickets",
+            "4-star hotel accommodation",
+            "Nile cruise",
+            "Daily breakfast",
+            "Guided tours"
+          ],
+          "exclusions": [
+            "Travel insurance",
+            "Lunch and dinner",
+            "Personal expenses"
+          ],
+          "images": [
+            "https://example.com/images/egypt1.jpg",
+            "https://example.com/images/egypt2.jpg"
+          ],
+          "reviews": [
+            {
+              "reviewer": "Linda Smith",
+              "rating": 4.8,
+              "comment": "A fascinating trip through history!"
+            },
+            {
+              "reviewer": "James Taylor",
+              "rating": 4.7,
+              "comment": "Loved the pyramids and the cruise on the Nile."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "New Zealand Adventure",
+          "description": "Explore the stunning landscapes of New Zealand with adventure activities like bungee jumping and hiking.",
+          "price": 2600,
+          "currency": "USD",
+          "destination": "New Zealand",
+          "duration": {
+            "days": 12,
+            "nights": 11
+          },
+          "inclusions": [
+            "Flight tickets",
+            "3-star hotel accommodation",
+            "Daily breakfast",
+            "Adventure activities",
+            "Guided tours"
+          ],
+          "exclusions": [
+            "Travel insurance",
+            "Lunch and dinner",
+            "Personal expenses"
+          ],
+          "images": [
+            "https://example.com/images/newzealand1.jpg",
+            "https://example.com/images/newzealand2.jpg"
+          ],
+          "reviews": [
+            {
+              "reviewer": "Tom Wilson",
+              "rating": 5.0,
+              "comment": "The best adventure trip ever!"
+            },
+            {
+              "reviewer": "Emily Davis",
+              "rating": 4.8,
+              "comment": "New Zealand is breathtaking, loved every moment."
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Explore the Wonders of Australia",
+          "description": "Experience the diverse landscapes and vibrant cities of Australia with visits to Sydney, Melbourne, and the Great Barrier Reef.",
+          "price": 2700,
+          "currency": "USD",
+          "destination": "Australia",
+          "duration": {
+            "days": 14,
+            "nights": 13
+          },
+          "inclusions": [
+            "Flight tickets",
+            "4-star hotel accommodation",
+            "Daily breakfast",
+            "City tours",
+            "Great Barrier Reef tour"
+          ],
+          "exclusions": [
+            "Travel insurance",
+            "Lunch and dinner",
+            "Personal expenses"
+          ],
+          "images": [
+            "https://example.com/images/australia1.jpg",
+            "https://example.com/images/australia2.jpg"
+          ],
+          "reviews": [
+            {
+              "reviewer": "Sarah Walker",
+              "rating": 5.0,
+              "comment": 
+           "An incredible journey through Australia's best sites!"
+        },
+        {
+          "reviewer": "David Lee",
+          "rating": 4.9,
+          "comment": "Loved Sydney and the Great Barrier Reef, amazing experience."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Exotic Thailand",
+      "description": "Enjoy the exotic beaches and rich culture of Thailand with visits to Bangkok, Phuket, and Chiang Mai.",
+      "price": 1500,
+      "currency": "USD",
+      "destination": "Thailand",
+      "duration": {
+        "days": 10,
+        "nights": 9
+      },
+      "inclusions": [
+        "Flight tickets",
+        "4-star hotel accommodation",
+        "Daily breakfast",
+        "City tours",
+        "Beach activities"
+      ],
+      "exclusions": [
+        "Travel insurance",
+        "Lunch and dinner",
+        "Personal expenses"
+      ],
+      "images": [
+        "https://example.com/images/thailand1.jpg",
+        "https://example.com/images/thailand2.jpg"
+      ],
+      "reviews": [
+        {
+          "reviewer": "Jennifer Martinez",
+          "rating": 4.8,
+          "comment": "Beautiful country with so much to see and do!"
+        },
+        {
+          "reviewer": "Michael Brown",
+          "rating": 4.7,
+          "comment": "Great beaches and amazing food, loved it!"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Discover the Beauty of Italy",
+      "description": "Explore the historic and cultural treasures of Italy with visits to Rome, Florence, and Venice.",
+      "price": 2000,
+      "currency": "USD",
+      "destination": "Italy",
+      "duration": {
+        "days": 12,
+        "nights": 11
+      },
+      "inclusions": [
+        "Flight tickets",
+        "4-star hotel accommodation",
+        "Daily breakfast",
+        "City tours",
+        "Museum tickets"
+      ],
+      "exclusions": [
+        "Travel insurance",
+        "Lunch and dinner",
+        "Personal expenses"
+      ],
+      "images": [
+        "https://example.com/images/italy1.jpg",
+        "https://example.com/images/italy2.jpg"
+      ],
+      "reviews": [
+        {
+          "reviewer": "Laura Anderson",
+          "rating": 5.0,
+          "comment": "An amazing cultural journey, Italy is beautiful!"
+        },
+        {
+          "reviewer": "Robert Thomas",
+          "rating": 4.9,
+          "comment": "Loved the historical sites and the food was incredible."
+        }
+      ]
+    }
   ]
+
+    
+
+  
+  
 }
