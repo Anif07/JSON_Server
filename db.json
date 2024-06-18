@@ -1277,6 +1277,321 @@
       "image": "https://res.cloudinary.com/dsysrrxod/image/upload/v1718552785/Air_india_logo_tkar2t.png"
     }
   ],
+
+  "flights2":[
+    {
+      "id": 1,
+      "flight_number": "AI101",
+      "departure_airport": "DEL",
+      "arrival_airport": "BOM",
+      "airline": "Air India",
+      "schedule": {
+        "departure_time": "06:00",
+        "arrival_time": "08:30"
+      },
+      "price": 5000,
+      "duration": "2h 30m"
+    },
+    {
+      "id": 2,
+      "flight_number": "6E202",
+      "departure_airport": "DEL",
+      "arrival_airport": "BOM",
+      "airline": "IndiGo",
+      "schedule": {
+        "departure_time": "10:00",
+        "arrival_time": "12:30"
+      },
+      "price": 4500,
+      "duration": "2h 30m"
+    },
+    {
+      "id": 3,
+      "flight_number": "SG303",
+      "departure_airport": "DEL",
+      "arrival_airport": "BOM",
+      "airline": "SpiceJet",
+      "schedule": {
+        "departure_time": "14:00",
+        "arrival_time": "16:30"
+      },
+      "price": 4200,
+      "duration": "2h 30m"
+    },
+    {
+      "id": 4,
+      "flight_number": "UK404",
+      "departure_airport": "DEL",
+      "arrival_airport": "BOM",
+      "airline": "Vistara",
+      "schedule": {
+        "departure_time": "18:00",
+        "arrival_time": "20:30"
+      },
+      "price": 4700,
+      "duration": "2h 30m"
+    },
+    {
+      "id": 5,
+      "flight_number": "AI102",
+      "departure_airport": "BLR",
+      "arrival_airport": "DEL",
+      "airline": "Air India",
+      "schedule": {
+        "departure_time": "07:00",
+        "arrival_time": "09:30"
+      },
+      "price": 5500,
+      "duration": "2h 30m"
+    },
+    {
+      "id": 6,
+      "flight_number": "6E203",
+      "departure_airport": "BLR",
+      "arrival_airport": "DEL",
+      "airline": "IndiGo",
+      "schedule": {
+        "departure_time": "11:00",
+        "arrival_time": "13:30"
+      },
+      "price": 4800,
+      "duration": "2h 30m"
+    },
+    {
+      "id": 7,
+      "flight_number": "SG304",
+      "departure_airport": "BLR",
+      "arrival_airport": "DEL",
+      "airline": "SpiceJet",
+      "schedule": {
+        "departure_time": "15:00",
+        "arrival_time": "17:30"
+      },
+      "price": 4600,
+      "duration": "2h 30m"
+    },
+    {
+      "id": 8,
+      "flight_number": "UK405",
+      "departure_airport": "BLR",
+      "arrival_airport": "DEL",
+      "airline": "Vistara",
+      "schedule": {
+        "departure_time": "19:00",
+        "arrival_time": "21:30"
+      },
+      "price": 4900,
+      "duration": "2h 30m"
+    },
+    {
+      "id": 9,
+      "flight_number": "AI103",
+      "departure_airport": "BOM",
+      "arrival_airport": "MAA",
+      "airline": "Air India",
+      "schedule": {
+        "departure_time": "08:00",
+        "arrival_time": "10:30"
+      },
+      "price": 4000,
+      "duration": "2h 30m"
+    },
+    {
+      "id": 10,
+      "flight_number": "6E204",
+      "departure_airport": "BOM",
+      "arrival_airport": "MAA",
+      "airline": "IndiGo",
+      "schedule": {
+        "departure_time": "12:00",
+        "arrival_time": "14:30"
+      },
+      "price": 3800,
+      "duration": "2h 30m"
+    },
+    {
+      "id": 11,
+      "flight_number": "SG305",
+      "departure_airport": "BOM",
+      "arrival_airport": "MAA",
+      "airline": "SpiceJet",
+      "schedule": {
+        "departure_time": "16:00",
+        "arrival_time": "18:30"
+      },
+      "price": 3600,
+      "duration": "2h 30m"
+    },
+    {
+      "id": 12,
+      "flight_number": "UK406",
+      "departure_airport": "BOM",
+      "arrival_airport": "MAA",
+      "airline": "Vistara",
+      "schedule": {
+        "departure_time": "20:00",
+        "arrival_time": "22:30"
+      },
+      "price": 3900,
+      "duration": "2h 30m"
+    },
+    {
+      "id": 13,
+      "flight_number": "AI104",
+      "departure_airport": "HYD",
+      "arrival_airport": "BLR",
+      "airline": "Air India",
+      "schedule": {
+        "departure_time": "06:30",
+        "arrival_time": "07:45"
+      },
+      "price": 3000,
+      "duration": "1h 15m"
+    },
+    {
+      "id": 14,
+      "flight_number": "6E205",
+      "departure_airport": "HYD",
+      "arrival_airport": "BLR",
+      "airline": "IndiGo",
+      "schedule": {
+        "departure_time": "10:30",
+        "arrival_time": "11:45"
+      },
+      "price": 2800,
+      "duration": "1h 15m"
+    },
+    {
+      "id": 15,
+      "flight_number": "SG306",
+      "departure_airport": "HYD",
+      "arrival_airport": "BLR",
+      "airline": "SpiceJet",
+      "schedule": {
+        "departure_time": "14:30",
+        "arrival_time": "15:45"
+      },
+      "price": 2700,
+      "duration": "1h 15m"
+    },
+    {
+      "id": 16,
+      "flight_number": "UK407",
+      "departure_airport": "HYD",
+      "arrival_airport": "BLR",
+      "airline": "Vistara",
+      "schedule": {
+        "departure_time": "18:30",
+        "arrival_time": "19:45"
+      },
+      "price": 2900,
+      "duration": "1h 15m"
+    },
+    {
+      "id": 17,
+      "flight_number": "AI105",
+      "departure_airport": "CCU",
+      "arrival_airport": "DEL",
+      "airline": "Air India",
+      "schedule": {
+        "departure_time": "09:00",
+        "arrival_time": "11:30"
+      },
+      "price": 4500,
+      "duration": "2h 30m"
+    },
+    {
+      "id": 18,
+      "flight_number": "6E206",
+      "departure_airport": "CCU",
+      "arrival_airport": "DEL",
+      "airline": "IndiGo",
+      "schedule": {
+        "departure_time": "13:00",
+        "arrival_time": "15:30"
+      },
+      "price": 4300,
+      "duration": "2h 30m"
+    },
+    {
+      "id": 19,
+      "flight_number": "SG307",
+      "departure_airport": "CCU",
+      "arrival_airport": "DEL",
+      "airline": "SpiceJet",
+      "schedule": {
+        "departure_time": "17:00",
+        "arrival_time": "19:30"
+      },
+      "price": 4100,
+      "duration": "2h 30m"
+    },
+    {
+      "id": 20,
+      "flight_number": "UK408",
+      "departure_airport": "CCU",
+      "arrival_airport": "DEL",
+      "airline": "Vistara",
+      "schedule": {
+        "departure_time": "21:00",
+        "arrival_time": "23:30"
+      },
+      "price": 4400,
+      "duration": "2h 30m"
+    },
+    {
+      "id": 21,
+      "flight_number": "AI106",
+      "departure_airport": "DEL",
+      "arrival_airport": "BLR",
+      "airline": "Air India",
+      "schedule": {
+        "departure_time": "07:00",
+        "arrival_time": "09:30"
+      },
+      "price": 5500,
+      "duration": "2h 30m"
+    },
+    {
+      "id": 22,
+      "flight_number": "6E207",
+      "departure_airport": "DEL",
+      "arrival_airport": "BLR",
+      "airline": "IndiGo",
+      "schedule": {
+        "departure_time": "11:00",
+        "arrival_time": "13:30"
+      },
+      "price": 4800,
+      "duration": "2h 30m"
+    },
+    {
+      "id": 23,
+      "flight_number": "SG308",
+      "departure_airport": "DEL",
+      "arrival_airport": "BLR",
+      "airline": "SpiceJet",
+      "schedule": {
+        "departure_time": "15:00",
+        "arrival_time": "17:30"
+      },
+      "price": 4600,
+      "duration": "2h 30m"
+    },
+    {
+      "id": 24,
+      "flight_number": "UK409",
+      "departure_airport": "DEL",
+      "arrival_airport": "BLR",
+      "airline": "Vistara",
+      "schedule": {
+        "departure_time": "19:00",
+        "arrival_time": "21:30"
+      },
+      "price": 4900,
+      "duration": "2h 30m"
+    }
+  ],
   "indiaPackages": [
     {
       "id": 1,
@@ -2273,10 +2588,1565 @@
         }
       ]
     }
+  ],
+  "indianPackages2": [
+    {
+      "id": 1,
+      "name": "Golden Triangle Tour",
+      "location": "Delhi, Agra, Jaipur",
+      "tagline": "Delhi, Agra, and Jaipur - The Classic Trio",
+      "description": "Explore the historical and cultural richness of India's Golden Triangle. Visit the majestic Taj Mahal, vibrant Jaipur, and bustling Delhi.",
+      "features": [
+        "Luxury Accommodation",
+        "Guided Tours",
+        "Cultural Performances",
+        "All Meals Included"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Delhi, city tour",
+        "Day 2: Delhi to Agra, visit Taj Mahal",
+        "Day 3: Agra to Jaipur, Amber Fort visit",
+        "Day 4: Jaipur city tour",
+        "Day 5: Departure from Jaipur"
+      ],
+      "price": 999,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily breakfast",
+        "Entry fees for included attractions",
+        "Transportation within the destination"
+      ],
+      "image": "golden_triangle.jpg",
+      "testimonials": [
+        "An amazing journey through India's history and culture! - John Smith"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Kerala Backwaters",
+      "location": "Kochi, Alleppey, Kumarakom, Kovalam",
+      "tagline": "Relax in the serene backwaters of Kerala",
+      "description": "Enjoy a tranquil retreat in the backwaters of Kerala. Experience houseboat cruises, lush green landscapes, and Ayurvedic spa treatments.",
+      "features": [
+        "Houseboat Stay",
+        "Ayurvedic Spa",
+        "Backwater Cruises",
+        "Local Cuisine"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Kochi, city tour",
+        "Day 2: Kochi to Alleppey, houseboat cruise",
+        "Day 3: Alleppey to Kumarakom, village tour",
+        "Day 4: Kumarakom to Kovalam, beach time",
+        "Day 5: Departure from Trivandrum"
+      ],
+      "price": 899,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily breakfast",
+        "Houseboat stay",
+        "Local transportation"
+      ],
+      "image": "kerala_backwaters.jpg",
+      "testimonials": [
+        "A perfect getaway in the lap of nature. - Jane Doe"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Goa Beach Holiday",
+      "location": "Goa",
+      "tagline": "Sun, Sand, and Sea in Goa",
+      "description": "Experience the vibrant beach life of Goa. Enjoy water sports, nightlife, and the unique Goan culture.",
+      "features": [
+        "Beach Resort Stay",
+        "Water Sports",
+        "Nightlife",
+        "Local Seafood"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Goa, beach time",
+        "Day 2: Water sports and beach activities",
+        "Day 3: Explore North Goa",
+        "Day 4: Explore South Goa",
+        "Day 5: Departure from Goa"
+      ],
+      "price": 799,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily breakfast",
+        "Water sports activities",
+        "Local transportation"
+      ],
+      "image": "goa_beach.jpg",
+      "testimonials": [
+        "The best beach holiday ever! - Alice Johnson"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Rajasthan Desert Safari",
+      "location": "Jodhpur, Jaisalmer" ,
+      "tagline": "Adventure in the Thar Desert",
+      "description": "Embark on an adventurous desert safari in Rajasthan. Experience camel rides, desert camps, and vibrant Rajasthani culture.",
+      "features": [
+        "Desert Camp Stay",
+        "Camel Safari",
+        "Cultural Performances",
+        "Traditional Rajasthani Cuisine"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Jodhpur, city tour",
+        "Day 2: Jodhpur to Jaisalmer, desert camp",
+        "Day 3: Camel safari and cultural evening",
+        "Day 4: Jaisalmer city tour",
+        "Day 5: Departure from Jaisalmer"
+      ],
+      "price": 899,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily breakfast",
+        "Camel safari",
+        "Local transportation"
+      ],
+      "image": "rajasthan_desert.jpg",
+      "testimonials": [
+        "An unforgettable desert adventure. - Michael Brown"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Himalayan Trekking",
+      "location": "Dehradun, Har Ki Dun",
+      "tagline": "Trek through the majestic Himalayas",
+      "description": "Join us for an exhilarating trekking experience in the Himalayas. Enjoy breathtaking views, challenging trails, and serene landscapes.",
+      "features": [
+        "Guided Treks",
+        "Mountain Lodge Stays",
+        "Local Cuisine",
+        "Stunning Scenery"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Dehradun, transfer to base camp",
+        "Day 2: Trek to Har Ki Dun",
+        "Day 3: Explore Har Ki Dun Valley",
+        "Day 4: Trek back to base camp",
+        "Day 5: Departure from Dehradun"
+      ],
+      "price": 1099,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily meals",
+        "Guided treks",
+        "Local transportation"
+      ],
+      "image": "himalayan_trekking.jpg",
+      "testimonials": [
+        "A challenging yet rewarding trek. - Emily Davis"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Andaman Islands",
+      "location": "Port Blair, Havelock Island, Neil Island",
+      "tagline": "Tropical paradise in the Bay of Bengal",
+      "description": "Discover the pristine beauty of the Andaman Islands. Enjoy crystal clear waters, white sandy beaches, and vibrant coral reefs.",
+      "features": [
+        "Beach Resort Stay",
+        "Scuba Diving",
+        "Snorkeling",
+        "Island Hopping"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Port Blair, city tour",
+        "Day 2: Havelock Island, beach time",
+        "Day 3: Scuba diving and snorkeling",
+        "Day 4: Neil Island tour",
+        "Day 5: Departure from Port Blair"
+      ],
+      "price": 1199,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily breakfast",
+        "Scuba diving session",
+        "Local transportation"
+      ],
+      "image": "andaman_islands.jpg",
+      "testimonials": [
+        "A true tropical paradise. - David Wilson"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Leh-Ladakh Adventure",
+      "location": "Leh, Nubra Valley, Pangong Lake",
+      "tagline": "High-altitude adventure in Ladakh",
+      "description": "Embark on an unforgettable adventure in Leh-Ladakh. Experience high-altitude treks, monasteries, and the stunning Pangong Lake.",
+      "features": [
+        "Mountain Lodge Stays",
+        "Guided Tours",
+        "Trekking",
+        "Local Cuisine"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Leh, acclimatization",
+        "Day 2: Leh city tour, monasteries",
+        "Day 3: Drive to Nubra Valley, camp stay",
+        "Day 4: Visit Pangong Lake",
+        "Day 5: Departure from Leh"
+      ],
+      "price": 1299,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily breakfast",
+        "Guided tours",
+        "Local transportation"
+      ],
+      "image": "leh_ladakh.jpg",
+      "testimonials": [
+        "A breathtaking adventure in the mountains. - Chris Lee"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Sikkim and Darjeeling",
+      "location": "Bagdogra, Gangtok, Darjeeling",
+      "tagline": "Explore the beauty of the Eastern Himalayas",
+      "description": "Discover the serene beauty of Sikkim and Darjeeling. Enjoy tea gardens, monasteries, and stunning mountain views.",
+      "features": [
+        "Luxury Accommodation",
+        "Guided Tours",
+        "Tea Garden Visits",
+        "Cultural Experiences"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Bagdogra, transfer to Gangtok",
+        "Day 2: Gangtok city tour, monasteries",
+        "Day 3: Day trip to Tsomgo Lake",
+        "Day 4: Transfer to Darjeeling, tea garden visit",
+        "Day 5: Departure from Bagdogra"
+      ],
+      "price": 999,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily breakfast",
+        "Entry fees for included attractions",
+        "Local transportation"
+      ],
+      "image": "sikkim_darjeeling.jpg",
+      "testimonials": [
+        "A peaceful retreat in the mountains. - Anna Garcia"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Kashmir Paradise",
+      "location": "Srinagar, Gulmarg, Pahalgam",
+      "tagline": "Experience the heaven on Earth",
+      "description": "Explore the breathtaking beauty of Kashmir. Enjoy houseboat stays, Shikara rides, and the mesmerizing landscapes.",
+      "features": [
+        "Houseboat Stay",
+        "Shikara Rides",
+        "Guided Tours",
+        "Local Cuisine"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Srinagar, houseboat stay",
+        "Day 2: Srinagar city tour, Mughal Gardens",
+        "Day 3: Day trip to Gulmarg",
+        "Day 4: Day trip to Pahalgam",
+        "Day 5: Departure from Srinagar"
+      ],
+      "price": 1099,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily breakfast",
+        "Shikara ride",
+        "Local transportation"
+      ],
+      "image": "kashmir_paradise.jpg",
+      "testimonials": [
+        "Truly a paradise on Earth. - Robert Miller"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Rann of Kutch",
+      "location": "Bhuj, Rann of Kutch",
+      "tagline": "Experience the White Desert",
+      "description": "Discover the unique beauty of the Rann of Kutch. Enjoy desert safaris, cultural festivals, and vibrant local culture.",
+      "features": [
+        "Desert Camp Stay",
+        "Guided Tours",
+        "Cultural Performances",
+        "Local Cuisine"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Bhuj, city tour",
+        "Day 2: Bhuj to Rann of Kutch, desert camp",
+        "Day 3: Explore White Desert, cultural evening",
+        "Day 4: Local village tours",
+        "Day 5: Departure from Bhuj"
+      ],
+      "price": 999,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily breakfast",
+        "Guided tours",
+        "Local transportation"
+      ],
+      "image": "rann_of_kutch.jpg",
+      "testimonials": [
+        "A unique desert experience. - Lisa Martinez"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Backwaters of Kerala",
+      "location": "Kochi, Alleppey, Kumarakom, Kovalam" ,
+      "tagline": "Experience serene backwaters",
+      "description": "Relax in the backwaters of Kerala. Enjoy houseboat stays, tranquil landscapes, and rejuvenating Ayurvedic treatments.",
+      "features": [
+        "Houseboat Stay",
+        "Ayurvedic Spa",
+        "Backwater Cruises",
+        "Local Cuisine"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Kochi, city tour",
+        "Day 2: Kochi to Alleppey, houseboat cruise",
+        "Day 3: Alleppey to Kumarakom, village tour",
+        "Day 4: Kumarakom to Kovalam, beach time",
+        "Day 5: Departure from Trivandrum"
+      ],
+      "price": 899,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily breakfast",
+        "Houseboat stay",
+        "Local transportation"
+      ],
+      "image": "kerala_backwaters.jpg",
+      "testimonials": [
+        "A peaceful and rejuvenating experience. - Karen White"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Mysore and Coorg",
+        "location": "Bangalore, Mysore, Coorg" ,
+      "tagline": "Explore the beauty of Karnataka",
+      "description": "Discover the cultural richness of Mysore and the natural beauty of Coorg. Enjoy palace tours, coffee plantations, and scenic landscapes.",
+      "features": [
+        "Luxury Accommodation",
+        "Guided Tours",
+        "Coffee Plantation Visits",
+        "Cultural Experiences"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Bangalore, transfer to Mysore",
+        "Day 2: Mysore city tour, Mysore Palace",
+        "Day 3: Transfer to Coorg, coffee plantation tour",
+        "Day 4: Explore Coorg, nature walks",
+        "Day 5: Departure from Bangalore"
+      ],
+      "price": 799,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily breakfast",
+        "Guided tours",
+        "Local transportation"
+      ],
+      "image": "mysore_coorg.jpg",
+      "testimonials": [
+        "A perfect blend of culture and nature. - Patricia Clark"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Varanasi Spiritual Tour",
+      "location": "Varanasi, Sarnath",
+      "tagline": "Dive into the spiritual heart of India",
+      "description": "Experience the spirituality of Varanasi. Participate in Ganga Aarti, visit ancient temples, and explore the ghats.",
+      "features": [
+        "Heritage Accommodation",
+        "Guided Tours",
+        "Boat Rides",
+        "Local Cuisine"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Varanasi, city tour",
+        "Day 2: Boat ride on the Ganges, temple tours",
+        "Day 3: Sarnath excursion",
+        "Day 4: Explore Varanasi, free time",
+        "Day 5: Departure from Varanasi"
+      ],
+      "price": 699,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily breakfast",
+        "Boat rides",
+        "Local transportation"
+      ],
+      "image": "varanasi_spiritual.jpg",
+      "testimonials": [
+        "A deeply spiritual experience. - James Rodriguez"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Manali and Shimla",
+      "location": "Chandigarh, Shimla, Manali",
+      "tagline": "Himalayan hill stations retreat",
+      "description": "Explore the beautiful hill stations of Manali and Shimla. Enjoy scenic views, adventure sports, and colonial charm.",
+      "features": [
+        "Hill Station Stay",
+        "Guided Tours",
+        "Adventure Sports",
+        "Local Cuisine"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Chandigarh, transfer to Shimla",
+        "Day 2: Shimla city tour, Mall Road",
+        "Day 3: Transfer to Manali, Rohtang Pass",
+        "Day 4: Manali city tour, adventure activities",
+        "Day 5: Departure from Chandigarh"
+      ],
+      "price": 799,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily breakfast",
+        "Adventure activities",
+        "Local transportation"
+      ],
+      "image": "manali_shimla.jpg",
+      "testimonials": [
+        "A wonderful retreat in the hills. - Maria Lopez"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Tamil Nadu Temple Tour",
+      "location": "Chennai, Mahabalipuram, Thanjavur, Madurai",
+      "tagline": "Explore the magnificent temples of Tamil Nadu",
+      "description": "Discover the architectural beauty and spirituality of Tamil Nadu's temples. Visit ancient temples, enjoy local cuisine, and learn about the rich history.",
+      "features": [
+        "Heritage Accommodation",
+        "Guided Tours",
+        "Cultural Performances",
+        "Local Cuisine"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Chennai, city tour",
+        "Day 2: Chennai to Mahabalipuram, temple visits",
+        "Day 3: Transfer to Thanjavur, Brihadeeswarar Temple",
+        "Day 4: Thanjavur to Madurai, Meenakshi Temple",
+        "Day 5: Departure from Madurai"
+      ],
+      "price": 799,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily breakfast",
+        "Entry fees for included attractions",
+        "Local transportation"
+      ],
+      "image": "tamil_nadu_temple.jpg",
+      "testimonials": [
+        "A journey through history and spirituality. - Steven King"
+      ]
+    }
+  ],
+  "internationalPackages": [
+    {
+      "id": 1,
+      "name": "European Extravaganza",
+      "tagline": "Experience the best of Europe",
+      "description": "Discover the iconic cities of Europe with our European Extravaganza package. Visit Paris, Rome, and Barcelona in a 10-day adventure.",
+      "features": [
+        "Luxury Accommodation",
+        "Guided Tours",
+        "High-speed Train Travel",
+        "All Meals Included"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Paris, city tour",
+        "Day 2: Eiffel Tower and Louvre Museum",
+        "Day 3: Train to Rome, city tour",
+        "Day 4: Vatican City and Colosseum",
+        "Day 5: Rome to Barcelona, city tour",
+        "Day 6: Sagrada Familia and Park Guell",
+        "Day 7: Free day in Barcelona",
+        "Day 8: Return to Paris, leisure day",
+        "Day 9: Shopping and sightseeing",
+        "Day 10: Departure from Paris"
+      ],
+      "price": 2499,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily breakfast and dinner",
+        "Entry fees for included attractions",
+        "High-speed train tickets"
+      ],
+      "image": "european_extravaganza.jpg",
+      "testimonials": [
+        "A fantastic way to see Europe’s top cities! - John Smith"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Australian Adventure",
+      "tagline": "Explore the wonders of Australia",
+      "description": "Experience the diverse landscapes of Australia. Visit Sydney, Melbourne, and the Great Barrier Reef with our Australian Adventure package.",
+      "features": [
+        "Luxury Accommodation",
+        "Guided Tours",
+        "Domestic Flights",
+        "All Meals Included"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Sydney, city tour",
+        "Day 2: Sydney Opera House and Harbour Bridge",
+        "Day 3: Blue Mountains day trip",
+        "Day 4: Flight to Cairns, Great Barrier Reef tour",
+        "Day 5: Snorkeling and scuba diving",
+        "Day 6: Flight to Melbourne, city tour",
+        "Day 7: Great Ocean Road trip",
+        "Day 8: Melbourne free day",
+        "Day 9: Departure from Melbourne"
+      ],
+      "price": 2899,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily breakfast and dinner",
+        "Entry fees for included attractions",
+        "Domestic flights"
+      ],
+      "image": "australian_adventure.jpg",
+      "testimonials": [
+        "An amazing trip with unforgettable experiences! - Jane Doe"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Japanese Cultural Journey",
+      "tagline": "Immerse yourself in Japanese culture",
+      "description": "Explore the rich cultural heritage of Japan. Visit Tokyo, Kyoto, and Hiroshima with our Japanese Cultural Journey package.",
+      "features": [
+        "Luxury Accommodation",
+        "Guided Tours",
+        "Bullet Train Travel",
+        "Traditional Meals"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Tokyo, city tour",
+        "Day 2: Tokyo Disneyland",
+        "Day 3: Tokyo to Kyoto, city tour",
+        "Day 4: Fushimi Inari Shrine and Arashiyama",
+        "Day 5: Kyoto to Hiroshima, Peace Memorial Park",
+        "Day 6: Miyajima Island",
+        "Day 7: Return to Tokyo, leisure day",
+        "Day 8: Departure from Tokyo"
+      ],
+      "price": 2599,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily breakfast and dinner",
+        "Entry fees for included attractions",
+        "Bullet train tickets"
+      ],
+      "image": "japanese_cultural_journey.jpg",
+      "testimonials": [
+        "A deep dive into Japanese culture and history. - Sarah Lee"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "South African Safari",
+      "tagline": "Adventure in the wild",
+      "description": "Experience the thrill of a South African Safari. Visit Cape Town, Kruger National Park, and Johannesburg with our adventure package.",
+      "features": [
+        "Luxury Accommodation",
+        "Guided Tours",
+        "Safari Drives",
+        "All Meals Included"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Cape Town, city tour",
+        "Day 2: Table Mountain and Robben Island",
+        "Day 3: Cape Peninsula tour",
+        "Day 4: Flight to Kruger, evening safari",
+        "Day 5: Full-day safari drives",
+        "Day 6: Flight to Johannesburg, city tour",
+        "Day 7: Apartheid Museum and Soweto tour",
+        "Day 8: Departure from Johannesburg"
+      ],
+      "price": 3299,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily breakfast and dinner",
+        "Safari drives",
+        "Domestic flights"
+      ],
+      "image": "south_african_safari.jpg",
+      "testimonials": [
+        "An unforgettable adventure in the wild. - Michael Brown"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Egyptian Explorer",
+      "tagline": "Discover the ancient wonders of Egypt",
+      "description": "Uncover the mysteries of ancient Egypt. Visit Cairo, Luxor, and Aswan with our Egyptian Explorer package.",
+      "features": [
+        "Luxury Accommodation",
+        "Guided Tours",
+        "Nile Cruise",
+        "All Meals Included"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Cairo, city tour",
+        "Day 2: Pyramids of Giza and Sphinx",
+        "Day 3: Cairo to Luxor, Nile cruise begins",
+        "Day 4: Valley of the Kings and Karnak Temple",
+        "Day 5: Edfu and Kom Ombo temples",
+        "Day 6: Aswan tour, Philae Temple",
+        "Day 7: Flight back to Cairo, leisure day",
+        "Day 8: Departure from Cairo"
+      ],
+      "price": 2399,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily breakfast and dinner",
+        "Nile cruise",
+        "Domestic flights"
+      ],
+      "image": "egyptian_explorer.jpg",
+      "testimonials": [
+        "A journey through ancient history. - Emily Davis"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Caribbean Cruise",
+      "tagline": "Relax and unwind in the Caribbean",
+      "description": "Sail through the Caribbean islands on a luxury cruise. Enjoy sun-soaked beaches, vibrant culture, and crystal-clear waters.",
+      "features": [
+        "Luxury Cruise",
+        "All-Inclusive Meals",
+        "Island Excursions",
+        "Onboard Entertainment"
+      ],
+      "itinerary": [
+        "Day 1: Departure from Miami",
+        "Day 2: Nassau, Bahamas",
+        "Day 3: At sea, onboard activities",
+        "Day 4: Cozumel, Mexico",
+        "Day 5: Grand Cayman, Cayman Islands",
+        "Day 6: At sea, onboard activities",
+        "Day 7: Ocho Rios, Jamaica",
+        "Day 8: Return to Miami"
+      ],
+      "price": 2199,
+      "inclusions": [
+        "Round-trip airfare",
+        "Luxury cabin",
+        "All-inclusive meals",
+        "Island excursions",
+        "Onboard entertainment"
+      ],
+      "image": "caribbean_cruise.jpg",
+      "testimonials": [
+        "The perfect vacation on the sea. - David Wilson"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "New Zealand Discovery",
+      "tagline": "Explore the natural beauty of New Zealand",
+      "description": "Discover the stunning landscapes of New Zealand. Visit Auckland, Queenstown, and Rotorua with our comprehensive tour package.",
+      "features": [
+        "Luxury Accommodation",
+        "Guided Tours",
+        "Domestic Flights",
+        "Adventure Activities"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Auckland, city tour",
+        "Day 2: Waiheke Island tour",
+        "Day 3: Flight to Queenstown, adventure activities",
+        "Day 4: Milford Sound cruise",
+        "Day 5: Flight to Rotorua, geothermal tour",
+        "Day 6: Maori cultural experience",
+        "Day 7: Return to Auckland, leisure day",
+        "Day 8: Departure from Auckland"
+      ],
+      "price": 2799,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily breakfast and dinner",
+        "Adventure activities",
+        "Domestic flights"
+      ],
+      "image": "new_zealand_discovery.jpg",
+      "testimonials": [
+        "A breathtaking journey through nature. - Chris Lee"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Canadian Rockies",
+      "tagline": "Majestic mountain adventure",
+      "description": "Explore the majestic Canadian Rockies. Visit Banff, Jasper, and Lake Louise with our adventure-packed tour package.",
+      "features": [
+        "Luxury Accommodation",
+        "Guided Tours",
+        "Scenic Drives",
+        "Adventure Activities"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Calgary, transfer to Banff",
+        "Day 2: Banff city tour, hot springs",
+        "Day 3: Lake Louise tour, hiking",
+        "Day 4: Drive to Jasper, Icefields Parkway",
+        "Day 5: Jasper National Park, wildlife tour",
+        "Day 6: Scenic drive back to Calgary",
+        "Day 7: Departure from Calgary"
+      ],
+      "price": 2599,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily breakfast and dinner",
+        "Guided tours",
+        "Local transportation"
+      ],
+      "image": "canadian_rockies.jpg",
+      "testimonials": [
+        "An incredible mountain adventure. - Anna Garcia"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Brazilian Carnival",
+      "tagline": "Experience the vibrant carnival",
+      "description": "Immerse yourself in the vibrant culture of Brazil. Experience Rio de Janeiro’s famous carnival, beaches, and nightlife.",
+      "features": [
+        "Luxury Accommodation",
+        "Carnival Tickets",
+        "Guided Tours",
+        "Local Cuisine"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Rio de Janeiro, city tour",
+        "Day 2: Christ the Redeemer and Sugarloaf Mountain",
+        "Day 3: Carnival parade and festivities",
+        "Day 4: Beach day at Copacabana",
+        "Day 5: Rio nightlife tour",
+        "Day 6: Day trip to Petropolis",
+        "Day 7: Departure from Rio de Janeiro"
+      ],
+      "price": 2399,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily breakfast and dinner",
+        "Carnival tickets",
+        "Local transportation"
+      ],
+      "image": "brazilian_carnival.jpg",
+      "testimonials": [
+        "An unforgettable carnival experience! - Steven King"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Greek Islands Escape",
+      "tagline": "Relax on the beautiful Greek islands",
+      "description": "Relax and unwind on the stunning Greek islands. Visit Mykonos, Santorini, and Crete with our luxurious escape package.",
+      "features": [
+        "Luxury Accommodation",
+        "Island Hopping",
+        "Guided Tours",
+        "Local Cuisine"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Athens, city tour",
+        "Day 2: Athens to Mykonos, leisure day",
+        "Day 3: Mykonos island tour",
+        "Day 4: Ferry to Santorini, sunset views",
+        "Day 5: Santorini island tour",
+        "Day 6: Ferry to Crete, beach day",
+        "Day 7: Crete city tour",
+        "Day 8: Return to Athens, leisure day",
+        "Day 9: Departure from Athens"
+      ],
+      "price": 2699,
+      "inclusions": [
+        "Round-trip airfare",
+        "Accommodation",
+        "Daily breakfast and dinner",
+        "Ferry tickets",
+        "Guided tours"
+      ],
+      "image": "greek_islands_escape.jpg",
+      "testimonials": [
+        "A perfect escape to paradise. - Patricia Clark"
+      ]
+    }
+  ],
+  "hotels": [
+    {
+      "id": 1,
+      "hotel_name": "The Leela Palace",
+      "location": "Chanakyapuri",
+      "city": "Delhi",
+      "price": 15000,
+      "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar"],
+      "rating": 4.8,
+      "description": "Luxury hotel offering world-class amenities and services in the heart of Delhi.",
+      "photos": ["leela1.jpg", "leela2.jpg"],
+      "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
+      "nearby_attractions": ["India Gate", "Qutub Minar", "Red Fort"],
+      "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
+    },
+    {
+      "id": 2,
+      "hotel_name": "Taj Mahal Hotel",
+      "location": "Mansingh Road",
+      "city": "Delhi",
+      "price": 13000,
+      "amenities": ["Free Wi-Fi", "Spa", "Gym", "Restaurant", "Bar"],
+      "rating": 4.7,
+      "description": "Iconic hotel with exquisite architecture and luxurious services.",
+      "photos": ["taj1.jpg", "taj2.jpg"],
+      "facilities": ["Business Center", "Valet Parking", "Conference Rooms"],
+      "nearby_attractions": ["Humayun's Tomb", "Lotus Temple", "Jama Masjid"],
+      "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
+    },
+    {
+      "id": 3,
+      "hotel_name": "ITC Maurya",
+      "location": "Diplomatic Enclave",
+      "city": "Delhi",
+      "price": 12000,
+      "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar"],
+      "rating": 4.6,
+      "description": "Elegant hotel offering a blend of traditional and modern luxury.",
+      "photos": ["itc1.jpg", "itc2.jpg"],
+      "facilities": ["Banquet Hall", "Fitness Center", "Currency Exchange"],
+      "nearby_attractions": ["Rashtrapati Bhavan", "Jantar Mantar", "Connaught Place"],
+      "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
+    },
+    {
+      "id": 4,
+      "hotel_name": "Trident Nariman Point",
+      "location": "Nariman Point",
+      "city": "Mumbai",
+      "price": 14000,
+      "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Sea View"],
+      "rating": 4.8,
+      "description": "Luxurious hotel with stunning views of the Arabian Sea.",
+      "photos": ["trident1.jpg", "trident2.jpg"],
+      "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
+      "nearby_attractions": ["Gateway of India", "Marine Drive", "Chhatrapati Shivaji Terminus"],
+      "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
+    },
+    {
+      "id": 5,
+      "hotel_name": "The Oberoi",
+      "location": "Nariman Point",
+      "city": "Mumbai",
+      "price": 16000,
+      "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "City View"],
+      "rating": 4.9,
+      "description": "Luxury hotel offering world-class services and panoramic views.",
+      "photos": ["oberoi1.jpg", "oberoi2.jpg"],
+      "facilities": ["Valet Parking", "Fitness Center", "Concierge Service"],
+      "nearby_attractions": ["Colaba Causeway", "Haji Ali Dargah", "Elephanta Caves"],
+      "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
+    },
+    {
+      "id": 6,
+      "hotel_name": "Taj Lands End",
+      "location": "Bandra",
+      "city": "Mumbai",
+      "price": 15000,
+      "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "Sea View"],
+      "rating": 4.8,
+      "description": "Elegant hotel with magnificent views of the Bandra-Worli Sea Link.",
+      "photos": ["tajlandsend1.jpg", "tajlandsend2.jpg"],
+      "facilities": ["Banquet Hall", "Fitness Center", "Conference Rooms"],
+      "nearby_attractions": ["Bandra Fort", "Mount Mary Church", "Juhu Beach"],
+      "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
+    },
+    {
+      "id": 7,
+      "hotel_name": "The Ritz-Carlton",
+      "location": "Residency Road",
+      "city": "Bangalore",
+      "price": 14000,
+      "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "City View"],
+      "rating": 4.9,
+      "description": "Luxury hotel offering refined elegance and personalized services.",
+      "photos": ["ritz1.jpg", "ritz2.jpg"],
+      "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
+      "nearby_attractions": ["Cubbon Park", "Lalbagh Botanical Garden", "Bangalore Palace"],
+      "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
+    },
+    {
+      "id": 8,
+      "hotel_name": "Taj West End",
+      "location": "Race Course Road",
+      "city": "Bangalore",
+      "price": 13000,
+      "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "Garden View"],
+      "rating": 4.8,
+      "description": "Heritage hotel with lush gardens and colonial charm.",
+      "photos": ["tajwestend1.jpg", "tajwestend2.jpg"],
+      "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
+      "nearby_attractions": ["Vidhana Soudha", "UB City", "ISKCON Temple"],
+      "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
+    },
+    {
+      "id": 9,
+      "hotel_name": "ITC Gardenia",
+      "location": "Residency Road",
+      "city": "Bangalore",
+      "price": 12000,
+      "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "Eco-friendly"],
+      "rating": 4.7,
+      "description": "Eco-friendly luxury hotel in the heart of the city.",
+      "photos": ["itcgardenia1.jpg", "itcgardenia2.jpg"],
+      "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
+      "nearby_attractions": ["Brigade Road", "Commercial Street", "Tipu Sultan's Summer Palace"],
+      "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
+    },
+    {
+      "id": 10,
+      "hotel_name": "The Oberoi Grand",
+      "location": "Park Street",
+      "city": "Kolkata",
+      "price": 14000,
+      "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "Heritage"],
+      "rating": 4.9,
+      "description": "Iconic hotel blending classical grandeur with modern amenities.",
+      "photos": ["oberoigrand1.jpg", "oberoigrand2.jpg"],
+      "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
+      "nearby_attractions": ["Victoria Memorial", "Howrah Bridge", "Eden Gardens"],
+      "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
+    },
+    {
+      "id": 11,
+      "hotel_name": "ITC Sonar",
+      "location": "EM Bypass",
+      "city": "Kolkata",
+      "price": 13000,
+      "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "Garden View"],
+      "rating": 4.8,
+      "description": "Luxurious hotel offering tranquil gardens and serene ambiance.",
+      "photos": ["itcsonar1.jpg", "itcsonar2.jpg"],
+      "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
+      "nearby_attractions": ["Birla Planetarium", "Indian Museum", "New Market"],
+      "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
+    },
+    {
+      "id": 12,
+      "hotel_name": "Taj Bengal",
+      "location": "Alipore",
+      "city": "Kolkata",
+      "price": 13500,
+      "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "City View"],
+      "rating": 4.7,
+      "description": "Luxury hotel with contemporary architecture and elegant decor.",
+      "photos": ["tajbengal1.jpg", "tajbengal2.jpg"],
+      "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
+      "nearby_attractions": ["Botanical Gardens", "Science City", "Mother House"],
+      "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
+    },
+    {
+      "id": 13,
+      "hotel_name": "The Leela Palace",
+      "location": "MRC Nagar",
+      "city": "Chennai",
+      "price": 15000,
+      "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "Sea View"],
+      "rating": 4.8,
+      "description": "Luxury hotel offering world-class amenities and services in the heart of Chennai.",
+      "photos": ["leelachennai1.jpg", "leelachennai2.jpg"],
+      "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
+      "nearby_attractions": ["Marina Beach", "Fort St. George", "Kapaleeshwarar Temple"],
+      "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
+    },
+    {
+      "id": 14,
+      "hotel_name": "Taj Coromandel",
+      "location": "Nungambakkam",
+      "city": "Chennai",
+      "price": 14000,
+      "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "City View"],
+      "rating": 4.7,
+      "description": "Elegant hotel offering luxurious accommodation and fine dining.",
+      "photos": ["tajcoromandel1.jpg", "tajcoromandel2.jpg"],
+      "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
+      "nearby_attractions": ["Santhome Cathedral", "Elliot's Beach", "Government Museum"],
+      "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
+    },
+    {
+      "id": 15,
+      "hotel_name": "ITC Grand Chola",
+      "location": "Guindy",
+      "city": "Chennai",
+      "price": 14500,
+      "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "Palatial"],
+      "rating": 4.8,
+      "description": "Palatial hotel offering grand architecture and opulent services.",
+      "photos": ["itcgrandchola1.jpg", "itcgrandchola2.jpg"],
+      "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
+      "nearby_attractions": ["Guindy National Park", "Phoenix Marketcity", "Mahabalipuram"],
+      "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
+    },
+    {
+      "id": 16,
+      "hotel_name": "The Leela Kovalam",
+      "location": "Kovalam Beach",
+      "city": "Kovalam",
+      "price": 16000,
+      "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "Beachfront"],
+      "rating": 4.9,
+      "description": "Beachfront luxury hotel with stunning views of the Arabian Sea.",
+      "photos": ["leelakovalam1.jpg", "leelakovalam2.jpg"],
+      "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
+      "nearby_attractions": ["Lighthouse Beach", "Hawah Beach", "Vizhinjam Rock Cut Cave Temple"],
+      "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
+    },
+    {
+      "id": 17,
+      "hotel_name": "Taj Green Cove Resort & Spa",
+      "location": "G.V. Raja Vattapara Road",
+      "city": "Kovalam",
+      "price": 15500,
+      "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "Tropical"],
+      "rating": 4.8,
+      "description": "Luxury resort set in a lush tropical environment with serene ambiance.",
+      "photos": ["tajgreencove1.jpg", "tajgreencove2.jpg"],
+      "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
+      "nearby_attractions": ["Samudra Beach", "Karamana River", "Vellayani Lake"],
+      "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
+    },
+    {
+      "id": 18,
+      "hotel_name": "Niraamaya Retreats Surya Samudra",
+      "location": "Pulinkudi",
+      "city": "Kovalam",
+      "price": 15000,
+      "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "Boutique"],
+      "rating": 4.7,
+      "description": "Boutique resort offering a blend of traditional architecture and modern comforts.",
+      "photos": ["niraamaya1.jpg", "niraamaya2.jpg"],
+      "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
+      "nearby_attractions": ["Vizhinjam Marine Aquarium", "Azhimala Shiva Temple", "Thiruvananthapuram Zoo"],
+      "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
+    }
+  ],
+  "indianPackages3":[
+    {
+      "id": 1,
+      "name": "Golden Triangle Tour",
+      "description": "Experience the best of India's culture and heritage with the Golden Triangle tour covering Delhi, Agra, and Jaipur.",
+      "destination": "Delhi, Agra, Jaipur",
+      "price": 15000,
+      "duration": {
+        "days": 5,
+        "nights": 4
+      },
+      "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast"],
+      "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
+      "itinerary": "Day 1: Arrival in Delhi, Day 2: Delhi to Agra, Day 3: Agra to Jaipur, Day 4: Jaipur Sightseeing, Day 5: Departure from Jaipur",
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718694349/pexels-sudipta-1603650_jotcs6.jpg", "https://res.cloudinary.com/dsysrrxod/image/upload/v1718694503/pexels-poonam-sharma-5306255-6185650_i2gdb6.jpg"],
+      "reviews": [
+        {"reviewer": "Alice", "rating": 5, "comment": "Excellent tour with knowledgeable guides."},
+        {"reviewer": "Bob", "rating": 4, "comment": "Amazing experience! Highly recommend."}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Goa Beach Holiday",
+      "description": "Relax and unwind on the beautiful beaches of Goa with this exclusive holiday package.",
+      "destination": "Goa",
+      "price": 12000,
+      "duration": {
+        "days": 4,
+        "nights": 3
+      },
+      "inclusions": ["Accommodation", "Breakfast", "Airport Transfers"],
+      "exclusions": ["Lunch", "Dinner", "Water Sports"],
+      "itinerary": "Day 1: Arrival in Goa, Day 2: North Goa Tour, Day 3: South Goa Tour, Day 4: Departure from Goa",
+      "images": ["https://example.com/images/goa_beach_1.jpg", "https://example.com/images/goa_beach_2.jpg"],
+      "reviews": [
+        {"reviewer": "Charlie", "rating": 5, "comment": "Beautiful beaches and great nightlife."},
+        {"reviewer": "Dana", "rating": 4, "comment": "A perfect getaway for relaxation."}
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Kerala Backwaters",
+      "description": "Explore the serene backwaters of Kerala with this rejuvenating houseboat tour.",
+      "destination": "Alleppey, Kumarakom",
+      "price": 18000,
+      "duration": {
+        "days": 5,
+        "nights": 4
+      },
+      "inclusions": ["Houseboat Stay", "All Meals", "Sightseeing"],
+      "exclusions": ["Personal Expenses", "Tips"],
+      "itinerary": "Day 1: Arrival in Kochi, Day 2: Kochi to Alleppey, Day 3: Alleppey Houseboat, Day 4: Kumarakom Sightseeing, Day 5: Departure from Kochi",
+      "images": ["https://example.com/images/kerala_backwaters_1.jpg", "https://example.com/images/kerala_backwaters_2.jpg"],
+      "reviews": [
+        {"reviewer": "Eve", "rating": 5, "comment": "Tranquil and beautiful experience."},
+        {"reviewer": "Frank", "rating": 4, "comment": "Loved the houseboat stay and the scenic views."}
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Royal Rajasthan",
+      "description": "Experience the royal heritage of Rajasthan with this tour covering Jaipur, Jodhpur, and Udaipur.",
+      "destination": "Jaipur, Jodhpur, Udaipur",
+      "price": 22000,
+      "duration": {
+        "days": 6,
+        "nights": 5
+      },
+      "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast"],
+      "exclusions": ["Lunch", "Dinner", "Entry Fees"],
+      "itinerary": "Day 1: Arrival in Jaipur, Day 2: Jaipur Sightseeing, Day 3: Jaipur to Jodhpur, Day 4: Jodhpur Sightseeing, Day 5: Jodhpur to Udaipur, Day 6: Udaipur Sightseeing and Departure",
+      "images": ["https://example.com/images/royal_rajasthan_1.jpg", "https://example.com/images/royal_rajasthan_2.jpg"],
+      "reviews": [
+        {"reviewer": "Grace", "rating": 5, "comment": "Felt like royalty throughout the tour."},
+        {"reviewer": "Hank", "rating": 4, "comment": "Well-organized and informative."}
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Himalayan Adventure",
+      "description": "Get your adrenaline pumping with this adventurous trip to the Himalayas.",
+      "destination": "Manali, Leh",
+      "price": 25000,
+      "duration": {
+        "days": 7,
+        "nights": 6
+      },
+      "inclusions": ["Accommodation", "Transport", "Guided Tours", "Breakfast"],
+      "exclusions": ["Adventure Activities", "Lunch", "Dinner"],
+      "itinerary": "Day 1: Arrival in Manali, Day 2: Manali Sightseeing, Day 3: Manali to Leh, Day 4: Leh Sightseeing, Day 5: Adventure Activities in Leh, Day 6: Leh to Manali, Day 7: Departure from Manali",
+      "images": ["https://example.com/images/himalayan_adventure_1.jpg", "https://example.com/images/himalayan_adventure_2.jpg"],
+      "reviews": [
+        {"reviewer": "Ivy", "rating": 5, "comment": "Thrilling and unforgettable experience."},
+        {"reviewer": "Jack", "rating": 4, "comment": "Perfect for adventure enthusiasts."}
+      ]
+    },
+    {
+      "id": 6,
+      "name": "South India Temple Tour",
+      "description": "Visit the most revered temples of South India with this spiritual journey.",
+      "destination": "Chennai, Madurai, Rameswaram",
+      "price": 16000,
+      "duration": {
+        "days": 6,
+        "nights": 5
+      },
+      "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast"],
+      "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
+      "itinerary": "Day 1: Arrival in Chennai, Day 2: Chennai to Madurai, Day 3: Madurai Sightseeing, Day 4: Madurai to Rameswaram, Day 5: Rameswaram Sightseeing, Day 6: Departure from Rameswaram",
+      "images": ["https://example.com/images/south_india_temple_1.jpg", "https://example.com/images/south_india_temple_2.jpg"],
+      "reviews": [
+        {"reviewer": "Karen", "rating": 5, "comment": "Very spiritual and enlightening."},
+        {"reviewer": "Leo", "rating": 4, "comment": "Beautiful temples and well-planned itinerary."}
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Northeast India Discovery",
+      "description": "Discover the hidden gems of Northeast India with this comprehensive tour.",
+      "destination": "Gangtok, Darjeeling, Shillong",
+      "price": 28000,
+      "duration": {
+        "days": 8,
+        "nights": 7
+      },
+      "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast"],
+      "exclusions": ["Lunch", "Dinner", "Entry Fees"],
+      "itinerary": "Day 1: Arrival in Gangtok, Day 2: Gangtok Sightseeing, Day 3: Gangtok to Darjeeling, Day 4: Darjeeling Sightseeing, Day 5: Darjeeling to Shillong, Day 6: Shillong Sightseeing, Day 7: Excursion to Cherrapunji, Day 8: Departure from Shillong",
+      "images": ["https://example.com/images/northeast_india_1.jpg", "https://example.com/images/northeast_india_2.jpg"],
+      "reviews": [
+        {"reviewer": "Mia", "rating": 5, "comment": "A fantastic journey through beautiful landscapes."},
+        {"reviewer": "Nolan", "rating": 4, "comment": "Great tour with excellent guides."}
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Majestic Kashmir",
+      "description": "Explore the stunning beauty of Kashmir with this relaxing holiday package.",
+      "destination": "Srinagar, Gulmarg, Pahalgam",
+      "price": 20000,
+      "duration": {
+        "days": 6,
+        "nights": 5
+      },
+      "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast"],
+      "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
+      "itinerary": "Day 1: Arrival in Srinagar, Day 2: Srinagar Sightseeing, Day 3: Srinagar to Gulmarg, Day 4: Gulmarg Sightseeing, Day 5: Gulmarg to Pahalgam, Day 6: Departure from Pahalgam",
+      "images": ["https://example.com/images/kashmir_1.jpg", "https://example.com/images/kashmir_2.jpg"],
+      "reviews": [
+        {"reviewer": "Olivia", "rating": 5, "comment": "Heaven on earth! Beautiful and serene."},
+        {"reviewer": "Peter", "rating": 4, "comment": "Amazing landscapes and very peaceful."}
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Rann of Kutch Festival",
+      "description": "Experience the vibrant culture and festivities of the Rann Utsav in Kutch.",
+      "destination": "Kutch",
+      "price": 15000,
+      "duration": {
+        "days": 4,
+        "nights": 3
+      },
+      "inclusions": ["Accommodation", "Transport", "Festival Entry", "Breakfast"],
+      "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
+      "itinerary": "Day 1: Arrival in Bhuj, Day 2: Rann Utsav Festival, Day 3: Kutch Sightseeing, Day 4: Departure from Bhuj",
+      "images": ["https://example.com/images/rann_kutch_1.jpg", "https://example.com/images/rann_kutch_2.jpg"],
+      "reviews": [
+        {"reviewer": "Quinn", "rating": 5, "comment": "A colorful and vibrant experience."},
+        {"reviewer": "Riley", "rating": 4, "comment": "Great cultural festival with lots to see and do."}
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Andaman Islands Escape",
+      "description": "Enjoy the pristine beaches and clear waters of the Andaman Islands with this relaxing getaway.",
+      "destination": "Port Blair, Havelock Island",
+      "price": 30000,
+      "duration": {
+        "days": 7,
+        "nights": 6
+      },
+      "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast"],
+      "exclusions": ["Lunch", "Dinner", "Water Activities"],
+      "itinerary": "Day 1: Arrival in Port Blair, Day 2: Port Blair Sightseeing, Day 3: Port Blair to Havelock Island, Day 4: Havelock Island Sightseeing, Day 5: Beach Activities, Day 6: Havelock Island to Port Blair, Day 7: Departure from Port Blair",
+      "images": ["https://example.com/images/andaman_1.jpg", "https://example.com/images/andaman_2.jpg"],
+      "reviews": [
+        {"reviewer": "Sophia", "rating": 5, "comment": "Paradise on earth! Loved the beaches."},
+        {"reviewer": "Thomas", "rating": 4, "comment": "Great trip with beautiful views and clear waters."}
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Wildlife Safari in Madhya Pradesh",
+      "description": "Explore the rich wildlife and forests of Madhya Pradesh with this exciting safari tour.",
+      "destination": "Bandhavgarh, Kanha",
+      "price": 25000,
+      "duration": {
+        "days": 6,
+        "nights": 5
+      },
+      "inclusions": ["Accommodation", "Transport", "Safari Rides", "Breakfast"],
+      "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
+      "itinerary": "Day 1: Arrival in Bandhavgarh, Day 2: Bandhavgarh Safari, Day 3: Bandhavgarh to Kanha, Day 4: Kanha Safari, Day 5: Kanha Sightseeing, Day 6: Departure from Kanha",
+      "images": ["https://example.com/images/madhya_pradesh_1.jpg", "https://example.com/images/madhya_pradesh_2.jpg"],
+      "reviews": [
+        {"reviewer": "Uma", "rating": 5, "comment": "Exciting and thrilling safari experience."},
+        {"reviewer": "Victor", "rating": 4, "comment": "Great wildlife sightings and well-organized tour."}
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Heritage Tour of Hampi",
+      "description": "Explore the ancient ruins and rich history of Hampi with this heritage tour.",
+      "destination": "Hampi",
+      "price": 14000,
+      "duration": {
+        "days": 4,
+        "nights": 3
+      },
+      "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast"],
+      "exclusions": ["Lunch", "Dinner", "Entry Fees"],
+      "itinerary": "Day 1: Arrival in Hampi, Day 2: Hampi Sightseeing, Day 3: More Hampi Exploration, Day 4: Departure from Hampi",
+      "images": ["https://example.com/images/hampi_1.jpg", "https://example.com/images/hampi_2.jpg"],
+      "reviews": [
+        {"reviewer": "Wendy", "rating": 5, "comment": "Fascinating historical site with great guides."},
+        {"reviewer": "Xander", "rating": 4, "comment": "Rich in history and culture, loved it!"}
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Sundarbans Mangrove Tour",
+      "description": "Explore the unique mangrove forests and wildlife of the Sundarbans with this eco-tour.",
+      "destination": "Sundarbans",
+      "price": 18000,
+      "duration": {
+        "days": 5,
+        "nights": 4
+      },
+      "inclusions": ["Accommodation", "Transport", "Guided Tours", "All Meals"],
+      "exclusions": ["Personal Expenses", "Tips"],
+      "itinerary": "Day 1: Arrival in Kolkata, Day 2: Kolkata to Sundarbans, Day 3: Sundarbans Safari, Day 4: Sundarbans Exploration, Day 5: Departure from Sundarbans",
+      "images": ["https://example.com/images/sundarbans_1.jpg", "https://example.com/images/sundarbans_2.jpg"],
+      "reviews": [
+        {"reviewer": "Yara", "rating": 5, "comment": "Unique and wonderful experience."},
+        {"reviewer": "Zane", "rating": 4, "comment": "Great for nature lovers and adventure seekers."}
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Spiritual Varanasi Tour",
+      "description": "Experience the spiritual essence of India with a tour of the holy city of Varanasi.",
+      "destination": "Varanasi",
+      "price": 12000,
+      "duration": {
+        "days": 3,
+        "nights": 2
+      },
+      "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast"],
+      "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
+      "itinerary": "Day 1: Arrival in Varanasi, Day 2: Varanasi Sightseeing, Day 3: Departure from Varanasi",
+      "images": ["https://example.com/images/varanasi_1.jpg", "https://example.com/images/varanasi_2.jpg"],
+      "reviews": [
+        {"reviewer": "Ava", "rating": 5, "comment": "Very spiritual and peaceful."},
+        {"reviewer": "Ben", "rating": 4, "comment": "A wonderful experience in a holy city."}
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Tea Gardens of Darjeeling",
+      "description": "Explore the lush tea gardens and scenic beauty of Darjeeling with this relaxing tour.",
+      "destination": "Darjeeling",
+      "price": 20000,
+      "duration": {
+        "days": 5,
+        "nights": 4
+      },
+      "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast"],
+      "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
+      "itinerary": "Day 1: Arrival in Darjeeling, Day 2: Tea Garden Tour, Day 3: Darjeeling Sightseeing, Day 4: More Darjeeling Exploration, Day 5: Departure from Darjeeling",
+      "images": ["https://example.com/images/darjeeling_1.jpg", "https://example.com/images/darjeeling_2.jpg"],
+      "reviews": [
+        {"reviewer": "Cathy", "rating": 5, "comment": "Beautiful tea gardens and scenic views."},
+        {"reviewer": "Dave", "rating": 4, "comment": "Relaxing and peaceful experience."}
+      ]
+    }
+  ],
+  "internationalPackages3":[
+    {
+      "id": 1,
+      "name": "European Explorer",
+      "description": "Explore the best of Europe with this comprehensive tour covering Paris, Rome, and Amsterdam.",
+      "destination": "Paris, Rome, Amsterdam",
+      "price": 150000,
+      "duration": {
+        "days": 10,
+        "nights": 9
+      },
+      "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast", "Local Guides"],
+      "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
+      "itinerary": "Day 1: Arrival in Paris, Day 2: Paris Sightseeing, Day 3: Paris to Rome, Day 4: Rome Sightseeing, Day 5: Rome Exploration, Day 6: Rome to Amsterdam, Day 7: Amsterdam Sightseeing, Day 8: Amsterdam Exploration, Day 9: Leisure Day, Day 10: Departure from Amsterdam",
+      "images": ["https://example.com/images/europe_explorer_1.jpg", "https://example.com/images/europe_explorer_2.jpg"],
+      "reviews": [
+        {"reviewer": "John", "rating": 5, "comment": "Fantastic tour with great guides."},
+        {"reviewer": "Emily", "rating": 4, "comment": "Loved every minute of it."}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Japanese Culture Trip",
+      "description": "Immerse yourself in the rich culture and history of Japan with this exciting tour.",
+      "destination": "Tokyo, Kyoto, Osaka",
+      "price": 180000,
+      "duration": {
+        "days": 8,
+        "nights": 7
+      },
+      "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast", "Tea Ceremony Experience"],
+      "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
+      "itinerary": "Day 1: Arrival in Tokyo, Day 2: Tokyo Sightseeing, Day 3: Tokyo to Kyoto, Day 4: Kyoto Sightseeing, Day 5: Kyoto to Osaka, Day 6: Osaka Sightseeing, Day 7: Leisure Day in Osaka, Day 8: Departure from Osaka",
+      "images": ["https://example.com/images/japan_culture_1.jpg", "https://example.com/images/japan_culture_2.jpg"],
+      "reviews": [
+        {"reviewer": "David", "rating": 5, "comment": "Amazing cultural experience."},
+        {"reviewer": "Sophia", "rating": 4, "comment": "Beautiful country and great itinerary."}
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Australian Adventure",
+      "description": "Discover the diverse landscapes and vibrant cities of Australia with this adventure-packed tour.",
+      "destination": "Sydney, Melbourne, Cairns",
+      "price": 200000,
+      "duration": {
+        "days": 9,
+        "nights": 8
+      },
+      "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast", "Great Barrier Reef Tour"],
+      "exclusions": ["Lunch", "Dinner", "Adventure Activities"],
+      "itinerary": "Day 1: Arrival in Sydney, Day 2: Sydney Sightseeing, Day 3: Sydney to Melbourne, Day 4: Melbourne Sightseeing, Day 5: Melbourne to Cairns, Day 6: Great Barrier Reef Tour, Day 7: Cairns Sightseeing, Day 8: Leisure Day in Cairns, Day 9: Departure from Cairns",
+      "images": ["https://example.com/images/australia_adventure_1.jpg", "https://example.com/images/australia_adventure_2.jpg"],
+      "reviews": [
+        {"reviewer": "James", "rating": 5, "comment": "An adventure of a lifetime."},
+        {"reviewer": "Isabella", "rating": 4, "comment": "Loved the diverse experiences."}
+      ]
+    },
+    {
+      "id": 4,
+      "name": "African Safari",
+      "description": "Experience the thrill of the African wilderness with this exciting safari tour.",
+      "destination": "Kenya, Tanzania",
+      "price": 220000,
+      "duration": {
+        "days": 7,
+        "nights": 6
+      },
+      "inclusions": ["Accommodation", "Transport", "Safari Rides", "All Meals", "Park Fees"],
+      "exclusions": ["Personal Expenses", "Tips"],
+      "itinerary": "Day 1: Arrival in Nairobi, Day 2: Nairobi to Masai Mara, Day 3: Masai Mara Safari, Day 4: Masai Mara to Serengeti, Day 5: Serengeti Safari, Day 6: Ngorongoro Crater Tour, Day 7: Departure from Arusha",
+      "images": ["https://example.com/images/africa_safari_1.jpg", "https://example.com/images/africa_safari_2.jpg"],
+      "reviews": [
+        {"reviewer": "Liam", "rating": 5, "comment": "Incredible wildlife and amazing guides."},
+        {"reviewer": "Emma", "rating": 4, "comment": "A truly unforgettable experience."}
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Exotic Thailand",
+      "description": "Discover the exotic beauty of Thailand with this relaxing holiday package.",
+      "destination": "Bangkok, Phuket, Chiang Mai",
+      "price": 140000,
+      "duration": {
+        "days": 10,
+        "nights": 9
+      },
+      "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast", "Island Tours"],
+      "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
+      "itinerary": "Day 1: Arrival in Bangkok, Day 2: Bangkok Sightseeing, Day 3: Bangkok to Phuket, Day 4: Phuket Sightseeing, Day 5: Leisure Day in Phuket, Day 6: Phuket to Chiang Mai, Day 7: Chiang Mai Sightseeing, Day 8: Excursion to Chiang Rai, Day 9: Leisure Day in Chiang Mai, Day 10: Departure from Chiang Mai",
+      "images": ["https://example.com/images/thailand_1.jpg", "https://example.com/images/thailand_2.jpg"],
+      "reviews": [
+        {"reviewer": "Noah", "rating": 5, "comment": "Beautiful beaches and amazing culture."},
+        {"reviewer": "Olivia", "rating": 4, "comment": "Great mix of relaxation and adventure."}
+      ]
+    },
+    {
+      "id": 6,
+      "name": "New Zealand Nature Tour",
+      "description": "Explore the stunning landscapes and outdoor adventures of New Zealand with this nature tour.",
+      "destination": "Auckland, Queenstown, Rotorua",
+      "price": 210000,
+      "duration": {
+        "days": 10,
+        "nights": 9
+      },
+      "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast", "Maori Cultural Experience"],
+      "exclusions": ["Lunch", "Dinner", "Adventure Activities"],
+      "itinerary": "Day 1: Arrival in Auckland, Day 2: Auckland Sightseeing, Day 3: Auckland to Queenstown, Day 4: Queenstown Adventure Activities, Day 5: Queenstown Sightseeing, Day 6: Queenstown to Rotorua, Day 7: Rotorua Sightseeing, Day 8: Excursion to Waitomo Caves, Day 9: Leisure Day in Rotorua, Day 10: Departure from Rotorua",
+      "images": ["https://example.com/images/new_zealand_1.jpg", "https://example.com/images/new_zealand_2.jpg"],
+      "reviews": [
+        {"reviewer": "Mason", "rating": 5, "comment": "Breathtaking scenery and exciting activities."},
+        {"reviewer": "Sophia", "rating": 4, "comment": "An unforgettable adventure."}
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Majestic Canada",
+      "description": "Discover the natural beauty and vibrant cities of Canada with this comprehensive tour.",
+      "destination": "Toronto, Vancouver, Banff",
+      "price": 240000,
+      "duration": {
+        "days": 12,
+        "nights": 11
+      },
+      "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast", "National Park Fees"],
+      "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
+      "itinerary": "Day 1: Arrival in Toronto, Day 2: Toronto Sightseeing, Day 3: Toronto to Vancouver, Day 4: Vancouver Sightseeing, Day 5: Excursion to Whistler, Day 6: Vancouver to Banff, Day 7: Banff Sightseeing, Day 8: Banff National Park Tour, Day 9: Lake Louise Excursion, Day 10: Leisure Day in Banff, Day 11: Banff to Calgary, Day 12: Departure from Calgary",
+      "images": ["https://example.com/images/canada_1.jpg", "https://example.com/images/canada_2.jpg"],
+      "reviews": [
+        {"reviewer": "Ella", "rating": 5, "comment": "Amazing landscapes and friendly people."},
+        {"reviewer": "William", "rating": 4, "comment": "Loved the mix of city and nature."}
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Dubai Luxury Escape",
+      "description": "Experience the luxury and glamour of Dubai with this exclusive holiday package.",
+      "destination": "Dubai",
+      "price": 160000,
+      "duration": {
+        "days": 6,
+        "nights": 5
+      },
+      "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast", "Desert Safari"],
+      "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
+      "itinerary": "Day 1: Arrival in Dubai, Day 2: Dubai City Tour, Day 3: Desert Safari, Day 4: Excursion to Abu Dhabi, Day 5: Leisure Day in Dubai, Day 6: Departure from Dubai",
+      "images": ["https://example.com/images/dubai_1.jpg", "https://example.com/images/dubai_2.jpg"],
+      "reviews": [
+        {"reviewer": "Aiden", "rating": 5, "comment": "Luxurious and glamorous experience."},
+        {"reviewer": "Mia", "rating": 4, "comment": "Loved the modern architecture and shopping."}
+      ]
+    },
+    {
+      "id": 9,
+      "name": "South American Discovery",
+      "description": "Explore the vibrant culture and stunning landscapes of South America with this exciting tour.",
+      "destination": "Rio de Janeiro, Buenos Aires, Cusco",
+      "price": 230000,
+      "duration": {
+        "days": 12,
+        "nights": 11
+      },
+      "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast", "Local Experiences"],
+      "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
+      "itinerary": "Day 1: Arrival in Rio de Janeiro, Day 2: Rio de Janeiro Sightseeing, Day 3: Leisure Day in Rio, Day 4: Rio to Buenos Aires, Day 5: Buenos Aires Sightseeing, Day 6: Tango Show in Buenos Aires, Day 7: Buenos Aires to Cusco, Day 8: Cusco Sightseeing, Day 9: Sacred Valley Tour, Day 10: Machu Picchu Excursion, Day 11: Leisure Day in Cusco, Day 12: Departure from Cusco",
+      "images": ["https://example.com/images/south_america_1.jpg", "https://example.com/images/south_america_2.jpg"],
+      "reviews": [
+        {"reviewer": "Lucas", "rating": 5, "comment": "Incredible cultural and natural experiences."},
+        {"reviewer": "Charlotte", "rating": 4, "comment": "Amazing trip with lots of variety."}
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Mediterranean Cruise",
+      "description": "Sail through the beautiful Mediterranean Sea with stops in Italy, Greece, and Spain on this luxury cruise.",
+      "destination": "Italy, Greece, Spain",
+      "price": 260000,
+      "duration": {
+        "days": 10,
+        "nights": 9
+      },
+      "inclusions": ["Accommodation", "All Meals", "Onboard Entertainment", "Shore Excursions"],
+      "exclusions": ["Personal Expenses", "Tips"],
+      "itinerary": "Day 1: Departure from Rome, Day 2: At Sea, Day 3: Arrival in Athens, Day 4: Athens Sightseeing, Day 5: At Sea, Day 6: Arrival in Barcelona, Day 7: Barcelona Sightseeing, Day 8: At Sea, Day 9: Arrival in Venice, Day 10: Departure from Venice",
+      "images": ["https://example.com/images/mediterranean_cruise_1.jpg", "https://example.com/images/mediterranean_cruise_2.jpg"],
+      "reviews": [
+        {"reviewer": "Lily", "rating": 5, "comment": "Luxurious cruise with fantastic destinations."},
+        {"reviewer": "Henry", "rating": 4, "comment": "Great mix of relaxation and sightseeing."}
+      ]
+    }
   ]
-
-    
-
-  
   
 }
