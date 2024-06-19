@@ -3702,7 +3702,7 @@
       "inclusions": ["Accommodation", "Breakfast", "Airport Transfers"],
       "exclusions": ["Lunch", "Dinner", "Water Sports"],
       "itinerary": "Day 1: Arrival in Goa, Day 2: North Goa Tour, Day 3: South Goa Tour, Day 4: Departure from Goa",
-      "images": ["https://example.com/images/goa_beach_1.jpg", "https://example.com/images/goa_beach_2.jpg"],
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718710831/pexels-asadphoto-1450360_qytidm.jpg", "https://res.cloudinary.com/dsysrrxod/image/upload/v1718711042/pexels-goodcitizen-1647063_niy230.jpg"],
       "reviews": [
         {"reviewer": "Charlie", "rating": 5, "comment": "Beautiful beaches and great nightlife."},
         {"reviewer": "Dana", "rating": 4, "comment": "A perfect getaway for relaxation."}
@@ -3721,7 +3721,7 @@
       "inclusions": ["Houseboat Stay", "All Meals", "Sightseeing"],
       "exclusions": ["Personal Expenses", "Tips"],
       "itinerary": "Day 1: Arrival in Kochi, Day 2: Kochi to Alleppey, Day 3: Alleppey Houseboat, Day 4: Kumarakom Sightseeing, Day 5: Departure from Kochi",
-      "images": ["https://example.com/images/kerala_backwaters_1.jpg", "https://example.com/images/kerala_backwaters_2.jpg"],
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718727116/pexels-swastikarora-19743480_pphkmv.jpg", "https://example.com/images/kerala_backwaters_2.jpg"],
       "reviews": [
         {"reviewer": "Eve", "rating": 5, "comment": "Tranquil and beautiful experience."},
         {"reviewer": "Frank", "rating": 4, "comment": "Loved the houseboat stay and the scenic views."}
@@ -3740,7 +3740,7 @@
       "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast"],
       "exclusions": ["Lunch", "Dinner", "Entry Fees"],
       "itinerary": "Day 1: Arrival in Jaipur, Day 2: Jaipur Sightseeing, Day 3: Jaipur to Jodhpur, Day 4: Jodhpur Sightseeing, Day 5: Jodhpur to Udaipur, Day 6: Udaipur Sightseeing and Departure",
-      "images": ["https://example.com/images/royal_rajasthan_1.jpg", "https://example.com/images/royal_rajasthan_2.jpg"],
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718727197/pexels-utkarsh-636258668-18446898_sx3isc.jpg", "https://example.com/images/royal_rajasthan_2.jpg"],
       "reviews": [
         {"reviewer": "Grace", "rating": 5, "comment": "Felt like royalty throughout the tour."},
         {"reviewer": "Hank", "rating": 4, "comment": "Well-organized and informative."}
@@ -3759,7 +3759,7 @@
       "inclusions": ["Accommodation", "Transport", "Guided Tours", "Breakfast"],
       "exclusions": ["Adventure Activities", "Lunch", "Dinner"],
       "itinerary": "Day 1: Arrival in Manali, Day 2: Manali Sightseeing, Day 3: Manali to Leh, Day 4: Leh Sightseeing, Day 5: Adventure Activities in Leh, Day 6: Leh to Manali, Day 7: Departure from Manali",
-      "images": ["https://example.com/images/himalayan_adventure_1.jpg", "https://example.com/images/himalayan_adventure_2.jpg"],
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718727452/pexels-tanmoy-pal-3640736-14118775_dwkevz.jpg", "https://example.com/images/himalayan_adventure_2.jpg"],
       "reviews": [
         {"reviewer": "Ivy", "rating": 5, "comment": "Thrilling and unforgettable experience."},
         {"reviewer": "Jack", "rating": 4, "comment": "Perfect for adventure enthusiasts."}
