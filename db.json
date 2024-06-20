@@ -1290,7 +1290,7 @@
         "arrival_time": "08:30"
       },
       "price": 5000,
-      "duration": "2h 30m"
+      "duration": "3h 30m"
     },
     {
       "id": 2,
@@ -1303,7 +1303,7 @@
         "arrival_time": "12:30"
       },
       "price": 4500,
-      "duration": "2h 30m"
+      "duration": "2h"
     },
     {
       "id": 3,
@@ -1316,7 +1316,7 @@
         "arrival_time": "16:30"
       },
       "price": 4200,
-      "duration": "2h 30m"
+      "duration": "4h 30m"
     },
     {
       "id": 4,
@@ -1329,7 +1329,7 @@
         "arrival_time": "20:30"
       },
       "price": 4700,
-      "duration": "2h 30m"
+      "duration": "2h 50m"
     },
     {
       "id": 5,
@@ -1342,7 +1342,7 @@
         "arrival_time": "09:30"
       },
       "price": 5500,
-      "duration": "2h 30m"
+      "duration": "5h 30m"
     },
     {
       "id": 6,
@@ -1355,7 +1355,7 @@
         "arrival_time": "13:30"
       },
       "price": 4800,
-      "duration": "2h 30m"
+      "duration": "3h 20m"
     },
     {
       "id": 7,
@@ -1368,7 +1368,7 @@
         "arrival_time": "17:30"
       },
       "price": 4600,
-      "duration": "2h 30m"
+      "duration": "1h 55m"
     },
     {
       "id": 8,
@@ -1381,7 +1381,7 @@
         "arrival_time": "21:30"
       },
       "price": 4900,
-      "duration": "2h 30m"
+      "duration": "3h 30m"
     },
     {
       "id": 9,
@@ -1394,7 +1394,7 @@
         "arrival_time": "10:30"
       },
       "price": 4000,
-      "duration": "2h 30m"
+      "duration": "4h 00m"
     },
     {
       "id": 10,
@@ -1407,7 +1407,7 @@
         "arrival_time": "14:30"
       },
       "price": 3800,
-      "duration": "2h 30m"
+      "duration": "3h 30m"
     },
     {
       "id": 11,
@@ -1420,7 +1420,7 @@
         "arrival_time": "18:30"
       },
       "price": 3600,
-      "duration": "2h 30m"
+      "duration": "1h 50m"
     },
     {
       "id": 12,
@@ -3970,7 +3970,7 @@
       "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast", "Local Guides"],
       "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
       "itinerary": "Day 1: Arrival in Paris, Day 2: Paris Sightseeing, Day 3: Paris to Rome, Day 4: Rome Sightseeing, Day 5: Rome Exploration, Day 6: Rome to Amsterdam, Day 7: Amsterdam Sightseeing, Day 8: Amsterdam Exploration, Day 9: Leisure Day, Day 10: Departure from Amsterdam",
-      "images": ["https://example.com/images/europe_explorer_1.jpg", "https://example.com/images/europe_explorer_2.jpg"],
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718863653/pexels-pixabay-532826_sts6i6.jpg", "https://example.com/images/europe_explorer_2.jpg"],
       "reviews": [
         {"reviewer": "John", "rating": 5, "comment": "Fantastic tour with great guides."},
         {"reviewer": "Emily", "rating": 4, "comment": "Loved every minute of it."}
@@ -3989,7 +3989,7 @@
       "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast", "Tea Ceremony Experience"],
       "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
       "itinerary": "Day 1: Arrival in Tokyo, Day 2: Tokyo Sightseeing, Day 3: Tokyo to Kyoto, Day 4: Kyoto Sightseeing, Day 5: Kyoto to Osaka, Day 6: Osaka Sightseeing, Day 7: Leisure Day in Osaka, Day 8: Departure from Osaka",
-      "images": ["https://example.com/images/japan_culture_1.jpg", "https://example.com/images/japan_culture_2.jpg"],
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718863695/pexels-pixabay-161401_zfrdok.jpg", "https://example.com/images/japan_culture_2.jpg"],
       "reviews": [
         {"reviewer": "David", "rating": 5, "comment": "Amazing cultural experience."},
         {"reviewer": "Sophia", "rating": 4, "comment": "Beautiful country and great itinerary."}
@@ -4008,7 +4008,7 @@
       "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast", "Great Barrier Reef Tour"],
       "exclusions": ["Lunch", "Dinner", "Adventure Activities"],
       "itinerary": "Day 1: Arrival in Sydney, Day 2: Sydney Sightseeing, Day 3: Sydney to Melbourne, Day 4: Melbourne Sightseeing, Day 5: Melbourne to Cairns, Day 6: Great Barrier Reef Tour, Day 7: Cairns Sightseeing, Day 8: Leisure Day in Cairns, Day 9: Departure from Cairns",
-      "images": ["https://example.com/images/australia_adventure_1.jpg", "https://example.com/images/australia_adventure_2.jpg"],
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718864033/pexels-pixelcop-1878293_azbzlp.jpg", "https://example.com/images/australia_adventure_2.jpg"],
       "reviews": [
         {"reviewer": "James", "rating": 5, "comment": "An adventure of a lifetime."},
         {"reviewer": "Isabella", "rating": 4, "comment": "Loved the diverse experiences."}
@@ -4148,6 +4148,358 @@
       ]
     }
   ],
+  "airports3": [
+  {
+    "id": 1,
+    "name": "Indira Gandhi International Airport",
+    "city": "New Delhi",
+    "iata_code": "DEL"
+  },
+  {
+    "id": 2,
+    "name": "Chhatrapati Shivaji Maharaj International Airport",
+    "city": "Mumbai",
+    "iata_code": "BOM"
+  },
+  {
+    "id": 3,
+    "name": "Kempegowda International Airport",
+    "city": "Bengaluru",
+    "iata_code": "BLR"
+  },
+  {
+    "id": 4,
+    "name": "Chennai International Airport",
+    "city": "Chennai",
+    "iata_code": "MAA"
+  },
+  {
+    "id": 5,
+    "name": "Rajiv Gandhi International Airport",
+    "city": "Hyderabad",
+    "iata_code": "HYD"
+  },
+  {
+    "id": 6,
+    "name": "Netaji Subhas Chandra Bose International Airport",
+    "city": "Kolkata",
+    "iata_code": "CCU"
+  }
+],
+  "flights3": [
+  {
+    "id": 1,
+    "flight_number": "AI101",
+    "departure_airport": "DEL",
+    "arrival_airport": "BOM",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "06:00",
+      "arrival_time": "08:20"
+    },
+    "price": 5000,
+    "duration": "2h 30m"
+  },
+  {
+    "id": 2,
+    "flight_number": "6E202",
+    "departure_airport": "DEL",
+    "arrival_airport": "BOM",
+    "airline": "IndiGo",
+    "schedule": {
+      "departure_time": "10:00",
+      "arrival_time": "12:10"
+    },
+    "price": 4500,
+    "duration": "2h 10m"
+  },
+  {
+    "id": 3,
+    "flight_number": "SG303",
+    "departure_airport": "DEL",
+    "arrival_airport": "BOM",
+    "airline": "SpiceJet",
+    "schedule": {
+      "departure_time": "14:00",
+      "arrival_time": "16:45"
+    },
+    "price": 4200,
+    "duration": "2h 45m"
+  },
+  {
+    "id": 4,
+    "flight_number": "UK404",
+    "departure_airport": "DEL",
+    "arrival_airport": "BOM",
+    "airline": "Vistara",
+    "schedule": {
+      "departure_time": "18:00",
+      "arrival_time": "20:10"
+    },
+    "price": 4700,
+    "duration": "2h 10m"
+  },
+  {
+    "id": 5,
+    "flight_number": "AI102",
+    "departure_airport": "BLR",
+    "arrival_airport": "DEL",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "07:00",
+      "arrival_time": "09:30"
+    },
+    "price": 5500,
+    "duration": "2h 30m"
+  },
+  {
+    "id": 6,
+    "flight_number": "6E203",
+    "departure_airport": "BLR",
+    "arrival_airport": "DEL",
+    "airline": "IndiGo",
+    "schedule": {
+      "departure_time": "11:00",
+      "arrival_time": "13:35"
+    },
+    "price": 4800,
+    "duration": "2h 35m"
+  },
+  {
+    "id": 7,
+    "flight_number": "SG304",
+    "departure_airport": "BLR",
+    "arrival_airport": "DEL",
+    "airline": "SpiceJet",
+    "schedule": {
+      "departure_time": "15:00",
+      "arrival_time": "17:20"
+    },
+    "price": 4600,
+    "duration": "2h 20m"
+  },
+  {
+    "id": 8,
+    "flight_number": "UK405",
+    "departure_airport": "BLR",
+    "arrival_airport": "DEL",
+    "airline": "Vistara",
+    "schedule": {
+      "departure_time": "19:00",
+      "arrival_time": "21:35"
+    },
+    "price": 4900,
+    "duration": "2h 35m"
+  },
+  {
+    "id": 9,
+    "flight_number": "AI103",
+    "departure_airport": "BOM",
+    "arrival_airport": "MAA",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "08:00",
+      "arrival_time": "10:30"
+    },
+    "price": 4000,
+    "duration": "2h 30m"
+  },
+  {
+    "id": 10,
+    "flight_number": "6E204",
+    "departure_airport": "BOM",
+    "arrival_airport": "MAA",
+    "airline": "IndiGo",
+    "schedule": {
+      "departure_time": "12:00",
+      "arrival_time": "14:20"
+    },
+    "price": 3800,
+    "duration": "2h 20m"
+  },
+  {
+    "id": 11,
+    "flight_number": "SG305",
+    "departure_airport": "BOM",
+    "arrival_airport": "MAA",
+    "airline": "SpiceJet",
+    "schedule": {
+      "departure_time": "16:00",
+      "arrival_time": "18:40"
+    },
+    "price": 3600,
+    "duration": "2h 40m"
+  },
+  {
+    "id": 12,
+    "flight_number": "UK406",
+    "departure_airport": "BOM",
+    "arrival_airport": "MAA",
+    "airline": "Vistara",
+    "schedule": {
+      "departure_time": "20:00",
+      "arrival_time": "22:25"
+    },
+    "price": 3900,
+    "duration": "2h 25m"
+  },
+  {
+    "id": 13,
+    "flight_number": "AI104",
+    "departure_airport": "HYD",
+    "arrival_airport": "BLR",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "06:30",
+      "arrival_time": "07:45"
+    },
+    "price": 3000,
+    "duration": "1h 15m"
+  },
+  {
+    "id": 14,
+    "flight_number": "6E205",
+    "departure_airport": "HYD",
+    "arrival_airport": "BLR",
+    "airline": "IndiGo",
+    "schedule": {
+      "departure_time": "10:30",
+      "arrival_time": "11:50"
+    },
+    "price": 2800,
+    "duration": "1h 20m"
+  },
+  {
+    "id": 15,
+    "flight_number": "SG306",
+    "departure_airport": "HYD",
+    "arrival_airport": "BLR",
+    "airline": "SpiceJet",
+    "schedule": {
+      "departure_time": "14:30",
+      "arrival_time": "15:50"
+    },
+    "price": 2700,
+    "duration": "1h 20m"
+  },
+  {
+    "id": 16,
+    "flight_number": "UK407",
+    "departure_airport": "HYD",
+    "arrival_airport": "BLR",
+    "airline": "Vistara",
+    "schedule": {
+      "departure_time": "18:30",
+      "arrival_time": "19:50"
+    },
+    "price": 2900,
+    "duration": "1h 20m"
+  },
+  {
+    "id": 17,
+    "flight_number": "AI105",
+    "departure_airport": "CCU",
+    "arrival_airport": "DEL",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "09:00",
+      "arrival_time": "11:30"
+    },
+    "price": 4500,
+    "duration": "2h 30m"
+  },
+  {
+    "id": 18,
+    "flight_number": "6E206",
+    "departure_airport": "CCU",
+    "arrival_airport": "DEL",
+    "airline": "IndiGo",
+    "schedule": {
+      "departure_time": "13:00",
+      "arrival_time": "15:35"
+    },
+    "price": 4300,
+    "duration": "2h 35m"
+  },
+  {
+    "id": 19,
+    "flight_number": "SG307",
+    "departure_airport": "CCU",
+    "arrival_airport": "DEL",
+    "airline": "SpiceJet",
+    "schedule": {
+      "departure_time": "17:00",
+      "arrival_time": "19:40"
+    },
+    "price": 4100,
+    "duration": "2h 40m"
+  },
+  {
+    "id": 20,
+    "flight_number": "UK408",
+    "departure_airport": "CCU",
+    "arrival_airport": "DEL",
+    "airline": "Vistara",
+    "schedule": {
+      "departure_time": "21:00",
+      "arrival_time": "23:30"
+    },
+    "price": 4400,
+    "duration": "2h 30m"
+  },
+  {
+    "id": 21,
+    "flight_number": "AI106",
+    "departure_airport": "DEL",
+    "arrival_airport": "BLR",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "07:00",
+      "arrival_time": "09:35"
+    },
+    "price": 5500,
+    "duration": "2h 35m"
+  },
+  {
+    "id": 22,
+    "flight_number": "6E207",
+    "departure_airport": "DEL",
+    "arrival_airport": "BLR",
+    "airline": "IndiGo",
+    "schedule": {
+      "departure_time": "11:00",
+      "arrival_time": "13:25"
+    },
+    "price": 4800,
+    "duration": "2h 25m"
+  },
+  {
+    "id": 23,
+    "flight_number": "SG308",
+    "departure_airport": "DEL",
+    "arrival_airport": "BLR",
+    "airline": "SpiceJet",
+    "schedule": {
+      "departure_time": "15:00",
+      "arrival_time": "17:40"
+    },
+    "price": 4600,
+    "duration": "2h 40m"
+  },
+  {
+    "id": 24,
+    "flight_number": "UK409",
+    "departure_airport": "DEL",
+    "arrival_airport": "BLR",
+    "airline": "Vistara",
+    "schedule": {
+      "departure_time": "19:00",
+      "arrival_time": "21:25"
+    },
+    "price": 4900,
+    "duration": "2h 25m"
+  }
+],
   "bookedPackages":[
 
   ],
