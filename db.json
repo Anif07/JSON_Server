@@ -3778,7 +3778,7 @@
       "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast"],
       "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
       "itinerary": "Day 1: Arrival in Chennai, Day 2: Chennai to Madurai, Day 3: Madurai Sightseeing, Day 4: Madurai to Rameswaram, Day 5: Rameswaram Sightseeing, Day 6: Departure from Rameswaram",
-      "images": ["https://example.com/images/south_india_temple_1.jpg", "https://example.com/images/south_india_temple_2.jpg"],
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718782385/madurai_zum7q6.jpg", "https://example.com/images/south_india_temple_2.jpg"],
       "reviews": [
         {"reviewer": "Karen", "rating": 5, "comment": "Very spiritual and enlightening."},
         {"reviewer": "Leo", "rating": 4, "comment": "Beautiful temples and well-planned itinerary."}
@@ -3797,7 +3797,7 @@
       "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast"],
       "exclusions": ["Lunch", "Dinner", "Entry Fees"],
       "itinerary": "Day 1: Arrival in Gangtok, Day 2: Gangtok Sightseeing, Day 3: Gangtok to Darjeeling, Day 4: Darjeeling Sightseeing, Day 5: Darjeeling to Shillong, Day 6: Shillong Sightseeing, Day 7: Excursion to Cherrapunji, Day 8: Departure from Shillong",
-      "images": ["https://example.com/images/northeast_india_1.jpg", "https://example.com/images/northeast_india_2.jpg"],
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718782543/pexels-captain-10440693_mz9fkk.jpg", "https://example.com/images/northeast_india_2.jpg"],
       "reviews": [
         {"reviewer": "Mia", "rating": 5, "comment": "A fantastic journey through beautiful landscapes."},
         {"reviewer": "Nolan", "rating": 4, "comment": "Great tour with excellent guides."}
@@ -3816,7 +3816,7 @@
       "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast"],
       "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
       "itinerary": "Day 1: Arrival in Srinagar, Day 2: Srinagar Sightseeing, Day 3: Srinagar to Gulmarg, Day 4: Gulmarg Sightseeing, Day 5: Gulmarg to Pahalgam, Day 6: Departure from Pahalgam",
-      "images": ["https://example.com/images/kashmir_1.jpg", "https://example.com/images/kashmir_2.jpg"],
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718848955/pexels-imadclicks-8303561_bzvof4.jpg", "https://example.com/images/kashmir_2.jpg"],
       "reviews": [
         {"reviewer": "Olivia", "rating": 5, "comment": "Heaven on earth! Beautiful and serene."},
         {"reviewer": "Peter", "rating": 4, "comment": "Amazing landscapes and very peaceful."}
@@ -3835,7 +3835,7 @@
       "inclusions": ["Accommodation", "Transport", "Festival Entry", "Breakfast"],
       "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
       "itinerary": "Day 1: Arrival in Bhuj, Day 2: Rann Utsav Festival, Day 3: Kutch Sightseeing, Day 4: Departure from Bhuj",
-      "images": ["https://example.com/images/rann_kutch_1.jpg", "https://example.com/images/rann_kutch_2.jpg"],
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718848806/pexels-setu-r8-7171320_j6fthf.jpg", "https://example.com/images/rann_kutch_2.jpg"],
       "reviews": [
         {"reviewer": "Quinn", "rating": 5, "comment": "A colorful and vibrant experience."},
         {"reviewer": "Riley", "rating": 4, "comment": "Great cultural festival with lots to see and do."}
@@ -4147,6 +4147,11 @@
         {"reviewer": "Henry", "rating": 4, "comment": "Great mix of relaxation and sightseeing."}
       ]
     }
-  ]
+  ],
+  "bookedPackages":[
+
+  ],
+  "bookedFlights":[],
+  "bookedHotels":[]
   
 }
