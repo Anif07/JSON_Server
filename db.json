@@ -3854,7 +3854,7 @@
       "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast"],
       "exclusions": ["Lunch", "Dinner", "Water Activities"],
       "itinerary": "Day 1: Arrival in Port Blair, Day 2: Port Blair Sightseeing, Day 3: Port Blair to Havelock Island, Day 4: Havelock Island Sightseeing, Day 5: Beach Activities, Day 6: Havelock Island to Port Blair, Day 7: Departure from Port Blair",
-      "images": ["https://example.com/images/andaman_1.jpg", "https://example.com/images/andaman_2.jpg"],
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718883023/pexels-yunustug-25642779_zywyud.jpg", "https://example.com/images/andaman_2.jpg"],
       "reviews": [
         {"reviewer": "Sophia", "rating": 5, "comment": "Paradise on earth! Loved the beaches."},
         {"reviewer": "Thomas", "rating": 4, "comment": "Great trip with beautiful views and clear waters."}
@@ -3873,7 +3873,7 @@
       "inclusions": ["Accommodation", "Transport", "Safari Rides", "Breakfast"],
       "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
       "itinerary": "Day 1: Arrival in Bandhavgarh, Day 2: Bandhavgarh Safari, Day 3: Bandhavgarh to Kanha, Day 4: Kanha Safari, Day 5: Kanha Sightseeing, Day 6: Departure from Kanha",
-      "images": ["https://example.com/images/madhya_pradesh_1.jpg", "https://example.com/images/madhya_pradesh_2.jpg"],
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718883183/pexels-thebioscopeguy-20000879_i9arq0.jpg", "https://example.com/images/madhya_pradesh_2.jpg"],
       "reviews": [
         {"reviewer": "Uma", "rating": 5, "comment": "Exciting and thrilling safari experience."},
         {"reviewer": "Victor", "rating": 4, "comment": "Great wildlife sightings and well-organized tour."}
@@ -3892,29 +3892,10 @@
       "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast"],
       "exclusions": ["Lunch", "Dinner", "Entry Fees"],
       "itinerary": "Day 1: Arrival in Hampi, Day 2: Hampi Sightseeing, Day 3: More Hampi Exploration, Day 4: Departure from Hampi",
-      "images": ["https://example.com/images/hampi_1.jpg", "https://example.com/images/hampi_2.jpg"],
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718883279/pexels-abhinandan-j-patil-722703852-18331994_yx1dzw.jpg", "https://example.com/images/hampi_2.jpg"],
       "reviews": [
         {"reviewer": "Wendy", "rating": 5, "comment": "Fascinating historical site with great guides."},
         {"reviewer": "Xander", "rating": 4, "comment": "Rich in history and culture, loved it!"}
-      ]
-    },
-    {
-      "id": 13,
-      "name": "Sundarbans Mangrove Tour",
-      "description": "Explore the unique mangrove forests and wildlife of the Sundarbans with this eco-tour.",
-      "destination": "Sundarbans",
-      "price": 18000,
-      "duration": {
-        "days": 5,
-        "nights": 4
-      },
-      "inclusions": ["Accommodation", "Transport", "Guided Tours", "All Meals"],
-      "exclusions": ["Personal Expenses", "Tips"],
-      "itinerary": "Day 1: Arrival in Kolkata, Day 2: Kolkata to Sundarbans, Day 3: Sundarbans Safari, Day 4: Sundarbans Exploration, Day 5: Departure from Sundarbans",
-      "images": ["https://example.com/images/sundarbans_1.jpg", "https://example.com/images/sundarbans_2.jpg"],
-      "reviews": [
-        {"reviewer": "Yara", "rating": 5, "comment": "Unique and wonderful experience."},
-        {"reviewer": "Zane", "rating": 4, "comment": "Great for nature lovers and adventure seekers."}
       ]
     },
     {
@@ -3930,7 +3911,7 @@
       "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast"],
       "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
       "itinerary": "Day 1: Arrival in Varanasi, Day 2: Varanasi Sightseeing, Day 3: Departure from Varanasi",
-      "images": ["https://example.com/images/varanasi_1.jpg", "https://example.com/images/varanasi_2.jpg"],
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718883345/pexels-rachel-claire-8112558_lqyc5p.jpg", "https://example.com/images/varanasi_2.jpg"],
       "reviews": [
         {"reviewer": "Ava", "rating": 5, "comment": "Very spiritual and peaceful."},
         {"reviewer": "Ben", "rating": 4, "comment": "A wonderful experience in a holy city."}
@@ -3949,7 +3930,7 @@
       "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast"],
       "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
       "itinerary": "Day 1: Arrival in Darjeeling, Day 2: Tea Garden Tour, Day 3: Darjeeling Sightseeing, Day 4: More Darjeeling Exploration, Day 5: Departure from Darjeeling",
-      "images": ["https://example.com/images/darjeeling_1.jpg", "https://example.com/images/darjeeling_2.jpg"],
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718883474/pexels-nishant-rana-107474724-16886358_gdc2q5.jpg", "https://example.com/images/darjeeling_2.jpg"],
       "reviews": [
         {"reviewer": "Cathy", "rating": 5, "comment": "Beautiful tea gardens and scenic views."},
         {"reviewer": "Dave", "rating": 4, "comment": "Relaxing and peaceful experience."}
@@ -4027,7 +4008,7 @@
       "inclusions": ["Accommodation", "Transport", "Safari Rides", "All Meals", "Park Fees"],
       "exclusions": ["Personal Expenses", "Tips"],
       "itinerary": "Day 1: Arrival in Nairobi, Day 2: Nairobi to Masai Mara, Day 3: Masai Mara Safari, Day 4: Masai Mara to Serengeti, Day 5: Serengeti Safari, Day 6: Ngorongoro Crater Tour, Day 7: Departure from Arusha",
-      "images": ["https://example.com/images/africa_safari_1.jpg", "https://example.com/images/africa_safari_2.jpg"],
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718881232/pexels-manuel-1422884-2949825_fsctbg.jpg", "https://example.com/images/africa_safari_2.jpg"],
       "reviews": [
         {"reviewer": "Liam", "rating": 5, "comment": "Incredible wildlife and amazing guides."},
         {"reviewer": "Emma", "rating": 4, "comment": "A truly unforgettable experience."}
@@ -4046,7 +4027,7 @@
       "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast", "Island Tours"],
       "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
       "itinerary": "Day 1: Arrival in Bangkok, Day 2: Bangkok Sightseeing, Day 3: Bangkok to Phuket, Day 4: Phuket Sightseeing, Day 5: Leisure Day in Phuket, Day 6: Phuket to Chiang Mai, Day 7: Chiang Mai Sightseeing, Day 8: Excursion to Chiang Rai, Day 9: Leisure Day in Chiang Mai, Day 10: Departure from Chiang Mai",
-      "images": ["https://example.com/images/thailand_1.jpg", "https://example.com/images/thailand_2.jpg"],
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718881249/pexels-pixabay-460376_nogaiz.jpg", "https://example.com/images/thailand_2.jpg"],
       "reviews": [
         {"reviewer": "Noah", "rating": 5, "comment": "Beautiful beaches and amazing culture."},
         {"reviewer": "Olivia", "rating": 4, "comment": "Great mix of relaxation and adventure."}
@@ -4065,7 +4046,7 @@
       "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast", "Maori Cultural Experience"],
       "exclusions": ["Lunch", "Dinner", "Adventure Activities"],
       "itinerary": "Day 1: Arrival in Auckland, Day 2: Auckland Sightseeing, Day 3: Auckland to Queenstown, Day 4: Queenstown Adventure Activities, Day 5: Queenstown Sightseeing, Day 6: Queenstown to Rotorua, Day 7: Rotorua Sightseeing, Day 8: Excursion to Waitomo Caves, Day 9: Leisure Day in Rotorua, Day 10: Departure from Rotorua",
-      "images": ["https://example.com/images/new_zealand_1.jpg", "https://example.com/images/new_zealand_2.jpg"],
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718881559/pexels-ketan-kumawat-215630-724949_x7bvqs.jpg", "https://example.com/images/new_zealand_2.jpg"],
       "reviews": [
         {"reviewer": "Mason", "rating": 5, "comment": "Breathtaking scenery and exciting activities."},
         {"reviewer": "Sophia", "rating": 4, "comment": "An unforgettable adventure."}
@@ -4084,7 +4065,7 @@
       "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast", "National Park Fees"],
       "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
       "itinerary": "Day 1: Arrival in Toronto, Day 2: Toronto Sightseeing, Day 3: Toronto to Vancouver, Day 4: Vancouver Sightseeing, Day 5: Excursion to Whistler, Day 6: Vancouver to Banff, Day 7: Banff Sightseeing, Day 8: Banff National Park Tour, Day 9: Lake Louise Excursion, Day 10: Leisure Day in Banff, Day 11: Banff to Calgary, Day 12: Departure from Calgary",
-      "images": ["https://example.com/images/canada_1.jpg", "https://example.com/images/canada_2.jpg"],
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718882710/pexels-liam-spicer-2685610-5342976_tkemhd.jpg", "https://example.com/images/canada_2.jpg"],
       "reviews": [
         {"reviewer": "Ella", "rating": 5, "comment": "Amazing landscapes and friendly people."},
         {"reviewer": "William", "rating": 4, "comment": "Loved the mix of city and nature."}
@@ -4103,7 +4084,7 @@
       "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast", "Desert Safari"],
       "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
       "itinerary": "Day 1: Arrival in Dubai, Day 2: Dubai City Tour, Day 3: Desert Safari, Day 4: Excursion to Abu Dhabi, Day 5: Leisure Day in Dubai, Day 6: Departure from Dubai",
-      "images": ["https://example.com/images/dubai_1.jpg", "https://example.com/images/dubai_2.jpg"],
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718882620/pexels-shukran-1534411_mgtfvp.jpg", "https://example.com/images/dubai_2.jpg"],
       "reviews": [
         {"reviewer": "Aiden", "rating": 5, "comment": "Luxurious and glamorous experience."},
         {"reviewer": "Mia", "rating": 4, "comment": "Loved the modern architecture and shopping."}
@@ -4122,7 +4103,7 @@
       "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast", "Local Experiences"],
       "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
       "itinerary": "Day 1: Arrival in Rio de Janeiro, Day 2: Rio de Janeiro Sightseeing, Day 3: Leisure Day in Rio, Day 4: Rio to Buenos Aires, Day 5: Buenos Aires Sightseeing, Day 6: Tango Show in Buenos Aires, Day 7: Buenos Aires to Cusco, Day 8: Cusco Sightseeing, Day 9: Sacred Valley Tour, Day 10: Machu Picchu Excursion, Day 11: Leisure Day in Cusco, Day 12: Departure from Cusco",
-      "images": ["https://example.com/images/south_america_1.jpg", "https://example.com/images/south_america_2.jpg"],
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718882805/pexels-cax0000-1959065_wattqs.jpg", "https://example.com/images/south_america_2.jpg"],
       "reviews": [
         {"reviewer": "Lucas", "rating": 5, "comment": "Incredible cultural and natural experiences."},
         {"reviewer": "Charlotte", "rating": 4, "comment": "Amazing trip with lots of variety."}
@@ -4141,7 +4122,7 @@
       "inclusions": ["Accommodation", "All Meals", "Onboard Entertainment", "Shore Excursions"],
       "exclusions": ["Personal Expenses", "Tips"],
       "itinerary": "Day 1: Departure from Rome, Day 2: At Sea, Day 3: Arrival in Athens, Day 4: Athens Sightseeing, Day 5: At Sea, Day 6: Arrival in Barcelona, Day 7: Barcelona Sightseeing, Day 8: At Sea, Day 9: Arrival in Venice, Day 10: Departure from Venice",
-      "images": ["https://example.com/images/mediterranean_cruise_1.jpg", "https://example.com/images/mediterranean_cruise_2.jpg"],
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718882901/pexels-davifnr-2064827_ks3o6u.jpg", "https://example.com/images/mediterranean_cruise_2.jpg"],
       "reviews": [
         {"reviewer": "Lily", "rating": 5, "comment": "Luxurious cruise with fantastic destinations."},
         {"reviewer": "Henry", "rating": 4, "comment": "Great mix of relaxation and sightseeing."}
