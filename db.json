@@ -5389,10 +5389,43 @@
     },
     "price": 4100,
     "duration": "1h 30m"
+  },  
+  {
+    "id": 73,
+    "flight_number": "AI1801",
+    "departure_airport": "DEL",
+    "departure_airport_name": "Indira Gandhi International Airport",
+    "departure_city": "Delhi",
+    "arrival_airport": "BOM",
+    "arrival_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "arrival_city": "Mumbai",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "06:00",
+      "arrival_time": "08:30"
+    },
+    "price": 6000,
+    "duration": "2h 30m"
+  },
+  {
+    "id": 74,
+    "flight_number": "6E1801",
+    "departure_airport": "DEL",
+    "departure_airport_name": "Indira Gandhi International Airport",
+    "departure_city": "Delhi",
+    "arrival_airport": "BOM",
+    "arrival_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "arrival_city": "Mumbai",
+    "airline": "IndiGo",
+    "schedule": {
+      "departure_time": "09:00",
+      "arrival_time": "11:30"
+    },
+    "price": 5800,
+    "duration": "2h 30m"
   }
 ],
   "bookedPackages":[
-
   ],
   "bookedFlights":[],
   "bookedHotels":[]
