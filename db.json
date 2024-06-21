@@ -4167,12 +4167,16 @@
     "iata_code": "CCU"
   }
 ],
-  "flights3": [
+"flights3": [
   {
     "id": 1,
     "flight_number": "AI101",
     "departure_airport": "DEL",
+    "departure_airport_name": "Indira Gandhi International Airport",
+    "departure_city": "Delhi",
     "arrival_airport": "BOM",
+    "arrival_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "arrival_city": "Mumbai",
     "airline": "Air India",
     "schedule": {
       "departure_time": "06:00",
@@ -4185,7 +4189,11 @@
     "id": 2,
     "flight_number": "6E202",
     "departure_airport": "DEL",
+    "departure_airport_name": "Indira Gandhi International Airport",
+    "departure_city": "Delhi",
     "arrival_airport": "BOM",
+    "arrival_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "arrival_city": "Mumbai",
     "airline": "IndiGo",
     "schedule": {
       "departure_time": "10:00",
@@ -4198,7 +4206,11 @@
     "id": 3,
     "flight_number": "SG303",
     "departure_airport": "DEL",
+    "departure_airport_name": "Indira Gandhi International Airport",
+    "departure_city": "Delhi",
     "arrival_airport": "BOM",
+    "arrival_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "arrival_city": "Mumbai",
     "airline": "SpiceJet",
     "schedule": {
       "departure_time": "14:00",
@@ -4211,7 +4223,11 @@
     "id": 4,
     "flight_number": "UK404",
     "departure_airport": "DEL",
+    "departure_airport_name": "Indira Gandhi International Airport",
+    "departure_city": "Delhi",
     "arrival_airport": "BOM",
+    "arrival_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "arrival_city": "Mumbai",
     "airline": "Vistara",
     "schedule": {
       "departure_time": "18:00",
@@ -4224,7 +4240,11 @@
     "id": 5,
     "flight_number": "AI102",
     "departure_airport": "BLR",
+    "departure_airport_name": "Kempegowda International Airport",
+    "departure_city": "Bangalore",
     "arrival_airport": "DEL",
+    "arrival_airport_name": "Indira Gandhi International Airport",
+    "arrival_city": "Delhi",
     "airline": "Air India",
     "schedule": {
       "departure_time": "07:00",
@@ -4237,7 +4257,11 @@
     "id": 6,
     "flight_number": "6E203",
     "departure_airport": "BLR",
+    "departure_airport_name": "Kempegowda International Airport",
+    "departure_city": "Bangalore",
     "arrival_airport": "DEL",
+    "arrival_airport_name": "Indira Gandhi International Airport",
+    "arrival_city": "Delhi",
     "airline": "IndiGo",
     "schedule": {
       "departure_time": "11:00",
@@ -4250,7 +4274,11 @@
     "id": 7,
     "flight_number": "SG304",
     "departure_airport": "BLR",
+    "departure_airport_name": "Kempegowda International Airport",
+    "departure_city": "Bangalore",
     "arrival_airport": "DEL",
+    "arrival_airport_name": "Indira Gandhi International Airport",
+    "arrival_city": "Delhi",
     "airline": "SpiceJet",
     "schedule": {
       "departure_time": "15:00",
@@ -4263,7 +4291,11 @@
     "id": 8,
     "flight_number": "UK405",
     "departure_airport": "BLR",
+    "departure_airport_name": "Kempegowda International Airport",
+    "departure_city": "Bangalore",
     "arrival_airport": "DEL",
+    "arrival_airport_name": "Indira Gandhi International Airport",
+    "arrival_city": "Delhi",
     "airline": "Vistara",
     "schedule": {
       "departure_time": "19:00",
@@ -4276,7 +4308,11 @@
     "id": 9,
     "flight_number": "AI103",
     "departure_airport": "BOM",
+    "departure_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "departure_city": "Mumbai",
     "arrival_airport": "MAA",
+    "arrival_airport_name": "Chennai International Airport",
+    "arrival_city": "Chennai",
     "airline": "Air India",
     "schedule": {
       "departure_time": "08:00",
@@ -4289,7 +4325,11 @@
     "id": 10,
     "flight_number": "6E204",
     "departure_airport": "BOM",
+    "departure_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "departure_city": "Mumbai",
     "arrival_airport": "MAA",
+    "arrival_airport_name": "Chennai International Airport",
+    "arrival_city": "Chennai",
     "airline": "IndiGo",
     "schedule": {
       "departure_time": "12:00",
@@ -4302,7 +4342,11 @@
     "id": 11,
     "flight_number": "SG305",
     "departure_airport": "BOM",
+    "departure_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "departure_city": "Mumbai",
     "arrival_airport": "MAA",
+    "arrival_airport_name": "Chennai International Airport",
+    "arrival_city": "Chennai",
     "airline": "SpiceJet",
     "schedule": {
       "departure_time": "16:00",
@@ -4315,7 +4359,11 @@
     "id": 12,
     "flight_number": "UK406",
     "departure_airport": "BOM",
+    "departure_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "departure_city": "Mumbai",
     "arrival_airport": "MAA",
+    "arrival_airport_name": "Chennai International Airport",
+    "arrival_city": "Chennai",
     "airline": "Vistara",
     "schedule": {
       "departure_time": "20:00",
@@ -4328,7 +4376,11 @@
     "id": 13,
     "flight_number": "AI104",
     "departure_airport": "HYD",
+    "departure_airport_name": "Rajiv Gandhi International Airport",
+    "departure_city": "Hyderabad",
     "arrival_airport": "BLR",
+    "arrival_airport_name": "Kempegowda International Airport",
+    "arrival_city": "Bangalore",
     "airline": "Air India",
     "schedule": {
       "departure_time": "06:30",
@@ -4341,7 +4393,11 @@
     "id": 14,
     "flight_number": "6E205",
     "departure_airport": "HYD",
+    "departure_airport_name": "Rajiv Gandhi International Airport",
+    "departure_city": "Hyderabad",
     "arrival_airport": "BLR",
+    "arrival_airport_name": "Kempegowda International Airport",
+    "arrival_city": "Bangalore",
     "airline": "IndiGo",
     "schedule": {
       "departure_time": "10:30",
@@ -4354,7 +4410,11 @@
     "id": 15,
     "flight_number": "SG306",
     "departure_airport": "HYD",
+    "departure_airport_name": "Rajiv Gandhi International Airport",
+    "departure_city": "Hyderabad",
     "arrival_airport": "BLR",
+    "arrival_airport_name": "Kempegowda International Airport",
+    "arrival_city": "Bangalore",
     "airline": "SpiceJet",
     "schedule": {
       "departure_time": "14:30",
@@ -4367,7 +4427,11 @@
     "id": 16,
     "flight_number": "UK407",
     "departure_airport": "HYD",
+    "departure_airport_name": "Rajiv Gandhi International Airport",
+    "departure_city": "Hyderabad",
     "arrival_airport": "BLR",
+    "arrival_airport_name": "Kempegowda International Airport",
+    "arrival_city": "Bangalore",
     "airline": "Vistara",
     "schedule": {
       "departure_time": "18:30",
@@ -4380,7 +4444,11 @@
     "id": 17,
     "flight_number": "AI105",
     "departure_airport": "CCU",
+    "departure_airport_name": "Netaji Subhas Chandra Bose International Airport",
+    "departure_city": "Kolkata",
     "arrival_airport": "DEL",
+    "arrival_airport_name": "Indira Gandhi International Airport",
+    "arrival_city": "Delhi",
     "airline": "Air India",
     "schedule": {
       "departure_time": "09:00",
@@ -4393,7 +4461,11 @@
     "id": 18,
     "flight_number": "6E206",
     "departure_airport": "CCU",
+    "departure_airport_name": "Netaji Subhas Chandra Bose International Airport",
+    "departure_city": "Kolkata",
     "arrival_airport": "DEL",
+    "arrival_airport_name": "Indira Gandhi International Airport",
+    "arrival_city": "Delhi",
     "airline": "IndiGo",
     "schedule": {
       "departure_time": "13:00",
@@ -4406,7 +4478,11 @@
     "id": 19,
     "flight_number": "SG307",
     "departure_airport": "CCU",
+    "departure_airport_name": "Netaji Subhas Chandra Bose International Airport",
+    "departure_city": "Kolkata",
     "arrival_airport": "DEL",
+    "arrival_airport_name": "Indira Gandhi International Airport",
+    "arrival_city": "Delhi",
     "airline": "SpiceJet",
     "schedule": {
       "departure_time": "17:00",
@@ -4419,7 +4495,11 @@
     "id": 20,
     "flight_number": "UK408",
     "departure_airport": "CCU",
+    "departure_airport_name": "Netaji Subhas Chandra Bose International Airport",
+    "departure_city": "Kolkata",
     "arrival_airport": "DEL",
+    "arrival_airport_name": "Indira Gandhi International Airport",
+    "arrival_city": "Delhi",
     "airline": "Vistara",
     "schedule": {
       "departure_time": "21:00",
@@ -4432,7 +4512,11 @@
     "id": 21,
     "flight_number": "AI106",
     "departure_airport": "DEL",
+    "departure_airport_name": "Indira Gandhi International Airport",
+    "departure_city": "Delhi",
     "arrival_airport": "BLR",
+    "arrival_airport_name": "Kempegowda International Airport",
+    "arrival_city": "Bangalore",
     "airline": "Air India",
     "schedule": {
       "departure_time": "07:00",
@@ -4445,7 +4529,11 @@
     "id": 22,
     "flight_number": "6E207",
     "departure_airport": "DEL",
+    "departure_airport_name": "Indira Gandhi International Airport",
+    "departure_city": "Delhi",
     "arrival_airport": "BLR",
+    "arrival_airport_name": "Kempegowda International Airport",
+    "arrival_city": "Bangalore",
     "airline": "IndiGo",
     "schedule": {
       "departure_time": "11:00",
@@ -4458,7 +4546,11 @@
     "id": 23,
     "flight_number": "SG308",
     "departure_airport": "DEL",
+    "departure_airport_name": "Indira Gandhi International Airport",
+    "departure_city": "Delhi",
     "arrival_airport": "BLR",
+    "arrival_airport_name": "Kempegowda International Airport",
+    "arrival_city": "Bangalore",
     "airline": "SpiceJet",
     "schedule": {
       "departure_time": "15:00",
@@ -4471,7 +4563,11 @@
     "id": 24,
     "flight_number": "UK409",
     "departure_airport": "DEL",
+    "departure_airport_name": "Indira Gandhi International Airport",
+    "departure_city": "Delhi",
     "arrival_airport": "BLR",
+    "arrival_airport_name": "Kempegowda International Airport",
+    "arrival_city": "Bangalore",
     "airline": "Vistara",
     "schedule": {
       "departure_time": "19:00",
@@ -4479,6 +4575,820 @@
     },
     "price": 4900,
     "duration": "2h 25m"
+  }, {
+    "id": 25,
+    "flight_number": "AI201",
+    "departure_airport": "DEL",
+    "departure_airport_name": "Indira Gandhi International Airport",
+    "departure_city": "Delhi",
+    "arrival_airport": "MAA",
+    "arrival_airport_name": "Chennai International Airport",
+    "arrival_city": "Chennai",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "07:00",
+      "arrival_time": "09:55"
+    },
+    "price": 6200,
+    "duration": "2h 55m"
+  },
+  {
+    "id": 26,
+    "flight_number": "6E301",
+    "departure_airport": "DEL",
+    "departure_airport_name": "Indira Gandhi International Airport",
+    "departure_city": "Delhi",
+    "arrival_airport": "MAA",
+    "arrival_airport_name": "Chennai International Airport",
+    "arrival_city": "Chennai",
+    "airline": "IndiGo",
+    "schedule": {
+      "departure_time": "11:00",
+      "arrival_time": "13:55"
+    },
+    "price": 5800,
+    "duration": "2h 55m"
+  },
+  {
+    "id": 27,
+    "flight_number": "SG401",
+    "departure_airport": "DEL",
+    "departure_airport_name": "Indira Gandhi International Airport",
+    "departure_city": "Delhi",
+    "arrival_airport": "MAA",
+    "arrival_airport_name": "Chennai International Airport",
+    "arrival_city": "Chennai",
+    "airline": "SpiceJet",
+    "schedule": {
+      "departure_time": "15:00",
+      "arrival_time": "17:50"
+    },
+    "price": 5600,
+    "duration": "2h 50m"
+  },
+  {
+    "id": 28,
+    "flight_number": "AI301",
+    "departure_airport": "DEL",
+    "departure_airport_name": "Indira Gandhi International Airport",
+    "departure_city": "Delhi",
+    "arrival_airport": "BLR",
+    "arrival_airport_name": "Kempegowda International Airport",
+    "arrival_city": "Bengaluru",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "06:00",
+      "arrival_time": "08:40"
+    },
+    "price": 5300,
+    "duration": "2h 40m"
+  },
+  {
+    "id": 29,
+    "flight_number": "6E401",
+    "departure_airport": "DEL",
+    "departure_airport_name": "Indira Gandhi International Airport",
+    "departure_city": "Delhi",
+    "arrival_airport": "BLR",
+    "arrival_airport_name": "Kempegowda International Airport",
+    "arrival_city": "Bengaluru",
+    "airline": "IndiGo",
+    "schedule": {
+      "departure_time": "14:00",
+      "arrival_time": "16:45"
+    },
+    "price": 5000,
+    "duration": "2h 45m"
+  },
+  {
+    "id": 30,
+    "flight_number": "AI401",
+    "departure_airport": "BOM",
+    "departure_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "departure_city": "Mumbai",
+    "arrival_airport": "DEL",
+    "arrival_airport_name": "Indira Gandhi International Airport",
+    "arrival_city": "Delhi",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "08:00",
+      "arrival_time": "10:15"
+    },
+    "price": 5200,
+    "duration": "2h 15m"
+  },
+  {
+    "id": 31,
+    "flight_number": "6E501",
+    "departure_airport": "BOM",
+    "departure_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "departure_city": "Mumbai",
+    "arrival_airport": "DEL",
+    "arrival_airport_name": "Indira Gandhi International Airport",
+    "arrival_city": "Delhi",
+    "airline": "IndiGo",
+    "schedule": {
+      "departure_time": "10:00",
+      "arrival_time": "12:25"
+    },
+    "price": 4800,
+    "duration": "2h 25m"
+  },
+  {
+    "id": 32,
+    "flight_number": "SG501",
+    "departure_airport": "BOM",
+    "departure_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "departure_city": "Mumbai",
+    "arrival_airport": "DEL",
+    "arrival_airport_name": "Indira Gandhi International Airport",
+    "arrival_city": "Delhi",
+    "airline": "SpiceJet",
+    "schedule": {
+      "departure_time": "14:00",
+      "arrival_time": "16:20"
+    },
+    "price": 4700,
+    "duration": "2h 20m"
+  },
+  {
+    "id": 33,
+    "flight_number": "UK501",
+    "departure_airport": "BOM",
+    "departure_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "departure_city": "Mumbai",
+    "arrival_airport": "DEL",
+    "arrival_airport_name": "Indira Gandhi International Airport",
+    "arrival_city": "Delhi",
+    "airline": "Vistara",
+    "schedule": {
+      "departure_time": "18:00",
+      "arrival_time": "20:25"
+    },
+    "price": 5000,
+    "duration": "2h 25m"
+  },
+  {
+    "id": 34,
+    "flight_number": "AI601",
+    "departure_airport": "BOM",
+    "departure_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "departure_city": "Mumbai",
+    "arrival_airport": "BLR",
+    "arrival_airport_name": "Kempegowda International Airport",
+    "arrival_city": "Bengaluru",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "07:00",
+      "arrival_time": "08:35"
+    },
+    "price": 4500,
+    "duration": "1h 35m"
+  },
+  {
+    "id": 35,
+    "flight_number": "6E601",
+    "departure_airport": "BOM",
+    "departure_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "departure_city": "Mumbai",
+    "arrival_airport": "BLR",
+    "arrival_airport_name": "Kempegowda International Airport",
+    "arrival_city": "Bengaluru",
+    "airline": "IndiGo",
+    "schedule": {
+      "departure_time": "12:00",
+      "arrival_time": "13:40"
+    },
+    "price": 4200,
+    "duration": "1h 40m"
+  },
+  {
+    "id": 36,
+    "flight_number": "SG601",
+    "departure_airport": "BOM",
+    "departure_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "departure_city": "Mumbai",
+    "arrival_airport": "BLR",
+    "arrival_airport_name": "Kempegowda International Airport",
+    "arrival_city": "Bengaluru",
+    "airline": "SpiceJet",
+    "schedule": {
+      "departure_time": "18:00",
+      "arrival_time": "19:45"
+    },
+    "price": 4300,
+    "duration": "1h 45m"
+  },
+  {
+    "id": 37,
+    "flight_number": "AI701",
+    "departure_airport": "BLR",
+    "departure_airport_name": "Kempegowda International Airport",
+    "departure_city": "Bengaluru",
+    "arrival_airport": "BOM",
+    "arrival_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "arrival_city": "Mumbai",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "06:30",
+      "arrival_time": "08:10"
+    },
+    "price": 4400,
+    "duration": "1h 40m"
+  },
+  {
+    "id": 38,
+    "flight_number": "6E701",
+    "departure_airport": "BLR",
+    "departure_airport_name": "Kempegowda International Airport",
+    "departure_city": "Bengaluru",
+    "arrival_airport": "BOM",
+    "arrival_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "arrival_city": "Mumbai",
+    "airline": "IndiGo",
+    "schedule": {
+      "departure_time": "14:30",
+      "arrival_time": "16:10"
+    },
+    "price": 4200,
+    "duration": "1h 40m"
+  },
+  {
+    "id": 39,
+    "flight_number": "AI801",
+    "departure_airport": "BLR",
+    "departure_airport_name": "Kempegowda International Airport",
+    "departure_city": "Bengaluru",
+    "arrival_airport": "MAA",
+    "arrival_airport_name": "Chennai International Airport",
+    "arrival_city": "Chennai",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "08:00",
+      "arrival_time": "09:05"
+    },
+    "price": 3000,
+    "duration": "1h 05m"
+  },
+  {
+    "id": 40,
+    "flight_number": "6E801",
+    "departure_airport": "BLR",
+    "departure_airport_name": "Kempegowda International Airport",
+    "departure_city": "Bengaluru",
+    "arrival_airport": "MAA",
+    "arrival_airport_name": "Chennai International Airport",
+    "arrival_city": "Chennai",
+    "airline": "IndiGo",
+    "schedule": {
+      "departure_time": "12:00",
+      "arrival_time": "13:05"
+    },
+    "price": 2800,
+    "duration": "1h 05m"
+  },
+  {
+    "id": 41,
+    "flight_number": "SG801",
+    "departure_airport": "BLR",
+    "departure_airport_name": "Kempegowda International Airport",
+    "departure_city": "Bengaluru",
+    "arrival_airport": "MAA",
+    "arrival_airport_name": "Chennai International Airport",
+    "arrival_city": "Chennai",
+    "airline": "SpiceJet",
+    "schedule": {
+      "departure_time": "18:00",
+      "arrival_time": "19:10"
+    },
+    "price": 2900,
+    "duration": "1h 10m"
+  },  {
+    "id": 42,
+    "flight_number": "AI901",
+    "departure_airport": "HYD",
+    "departure_airport_name": "Rajiv Gandhi International Airport",
+    "departure_city": "Hyderabad",
+    "arrival_airport": "BOM",
+    "arrival_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "arrival_city": "Mumbai",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "07:00",
+      "arrival_time": "08:45"
+    },
+    "price": 4200,
+    "duration": "1h 45m"
+  },
+  {
+    "id": 43,
+    "flight_number": "6E901",
+    "departure_airport": "HYD",
+    "departure_airport_name": "Rajiv Gandhi International Airport",
+    "departure_city": "Hyderabad",
+    "arrival_airport": "BOM",
+    "arrival_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "arrival_city": "Mumbai",
+    "airline": "IndiGo",
+    "schedule": {
+      "departure_time": "11:00",
+      "arrival_time": "12:45"
+    },
+    "price": 4000,
+    "duration": "1h 45m"
+  },
+  {
+    "id": 44,
+    "flight_number": "SG901",
+    "departure_airport": "HYD",
+    "departure_airport_name": "Rajiv Gandhi International Airport",
+    "departure_city": "Hyderabad",
+    "arrival_airport": "BOM",
+    "arrival_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "arrival_city": "Mumbai",
+    "airline": "SpiceJet",
+    "schedule": {
+      "departure_time": "15:00",
+      "arrival_time": "16:45"
+    },
+    "price": 3800,
+    "duration": "1h 45m"
+  },
+  {
+    "id": 45,
+    "flight_number": "AI1001",
+    "departure_airport": "HYD",
+    "departure_airport_name": "Rajiv Gandhi International Airport",
+    "departure_city": "Hyderabad",
+    "arrival_airport": "DEL",
+    "arrival_airport_name": "Indira Gandhi International Airport",
+    "arrival_city": "Delhi",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "07:00",
+      "arrival_time": "09:40"
+    },
+    "price": 5500,
+    "duration": "2h 40m"
+  },
+  {
+    "id": 46,
+    "flight_number": "6E1001",
+    "departure_airport": "HYD",
+    "departure_airport_name": "Rajiv Gandhi International Airport",
+    "departure_city": "Hyderabad",
+    "arrival_airport": "DEL",
+    "arrival_airport_name": "Indira Gandhi International Airport",
+    "arrival_city": "Delhi",
+    "airline": "IndiGo",
+    "schedule": {
+      "departure_time": "11:00",
+      "arrival_time": "13:45"
+    },
+    "price": 5200,
+    "duration": "2h 45m"
+  },
+  {
+    "id": 47,
+    "flight_number": "AI1101",
+    "departure_airport": "HYD",
+    "departure_airport_name": "Rajiv Gandhi International Airport",
+    "departure_city": "Hyderabad",
+    "arrival_airport": "MAA",
+    "arrival_airport_name": "Chennai International Airport",
+    "arrival_city": "Chennai",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "06:00",
+      "arrival_time": "07:05"
+    },
+    "price": 3000,
+    "duration": "1h 05m"
+  },
+  {
+    "id": 48,
+    "flight_number": "6E1101",
+    "departure_airport": "HYD",
+    "departure_airport_name": "Rajiv Gandhi International Airport",
+    "departure_city": "Hyderabad",
+    "arrival_airport": "MAA",
+    "arrival_airport_name": "Chennai International Airport",
+    "arrival_city": "Chennai",
+    "airline": "IndiGo",
+    "schedule": {
+      "departure_time": "09:00",
+      "arrival_time": "10:05"
+    },
+    "price": 2800,
+    "duration": "1h 05m"
+  },
+  {
+    "id": 49,
+    "flight_number": "SG1101",
+    "departure_airport": "HYD",
+    "departure_airport_name": "Rajiv Gandhi International Airport",
+    "departure_city": "Hyderabad",
+    "arrival_airport": "MAA",
+    "arrival_airport_name": "Chennai International Airport",
+    "arrival_city": "Chennai",
+    "airline": "SpiceJet",
+    "schedule": {
+      "departure_time": "12:00",
+      "arrival_time": "13:10"
+    },
+    "price": 2700,
+    "duration": "1h 10m"
+  },
+  {
+    "id": 50,
+    "flight_number": "UK1101",
+    "departure_airport": "HYD",
+    "departure_airport_name": "Rajiv Gandhi International Airport",
+    "departure_city": "Hyderabad",
+    "arrival_airport": "MAA",
+    "arrival_airport_name": "Chennai International Airport",
+    "arrival_city": "Chennai",
+    "airline": "Vistara",
+    "schedule": {
+      "departure_time": "15:00",
+      "arrival_time": "16:15"
+    },
+    "price": 2900,
+    "duration": "1h 15m"
+  },
+  {
+    "id": 51,
+    "flight_number": "AI1102",
+    "departure_airport": "HYD",
+    "departure_airport_name": "Rajiv Gandhi International Airport",
+    "departure_city": "Hyderabad",
+    "arrival_airport": "MAA",
+    "arrival_airport_name": "Chennai International Airport",
+    "arrival_city": "Chennai",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "18:00",
+      "arrival_time": "19:05"
+    },
+    "price": 3100,
+    "duration": "1h 05m"
+  },
+  {
+    "id": 52,
+    "flight_number": "AI1201",
+    "departure_airport": "CCU",
+    "departure_airport_name": "Netaji Subhas Chandra Bose International Airport",
+    "departure_city": "Kolkata",
+    "arrival_airport": "BOM",
+    "arrival_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "arrival_city": "Mumbai",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "06:00",
+      "arrival_time": "08:30"
+    },
+    "price": 5500,
+    "duration": "2h 30m"
+  },
+  {
+    "id": 53,
+    "flight_number": "6E1201",
+    "departure_airport": "CCU",
+    "departure_airport_name": "Netaji Subhas Chandra Bose International Airport",
+    "departure_city": "Kolkata",
+    "arrival_airport": "BOM",
+    "arrival_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "arrival_city": "Mumbai",
+    "airline": "IndiGo",
+    "schedule": {
+      "departure_time": "09:00",
+      "arrival_time": "11:30"
+    },
+    "price": 5300,
+    "duration": "2h 30m"
+  },
+  {
+    "id": 54,
+    "flight_number": "SG1201",
+    "departure_airport": "CCU",
+    "departure_airport_name": "Netaji Subhas Chandra Bose International Airport",
+    "departure_city": "Kolkata",
+    "arrival_airport": "BOM",
+    "arrival_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "arrival_city": "Mumbai",
+    "airline": "SpiceJet",
+    "schedule": {
+      "departure_time": "12:00",
+      "arrival_time": "14:30"
+    },
+    "price": 5100,
+    "duration": "2h 30m"
+  },
+  {
+    "id": 55,
+    "flight_number": "UK1201",
+    "departure_airport": "CCU",
+    "departure_airport_name": "Netaji Subhas Chandra Bose International Airport",
+    "departure_city": "Kolkata",
+    "arrival_airport": "BOM",
+    "arrival_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "arrival_city": "Mumbai",
+    "airline": "Vistara",
+    "schedule": {
+      "departure_time": "15:00",
+      "arrival_time": "17:30"
+    },
+    "price": 5200,
+    "duration": "2h 30m"
+  },
+  {
+    "id": 56,
+    "flight_number": "AI1202",
+    "departure_airport": "CCU",
+    "departure_airport_name": "Netaji Subhas Chandra Bose International Airport",
+    "departure_city": "Kolkata",
+    "arrival_airport": "BOM",
+    "arrival_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "arrival_city": "Mumbai",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "18:00",
+      "arrival_time": "20:30"
+    },
+    "price": 5400,
+    "duration": "2h 30m"
+  },
+  {
+    "id": 57,
+    "flight_number": "AI1301",
+    "departure_airport": "CCU",
+    "departure_airport_name": "Netaji Subhas Chandra Bose International Airport",
+    "departure_city": "Kolkata",
+    "arrival_airport": "MAA",
+    "arrival_airport_name": "Chennai International Airport",
+    "arrival_city": "Chennai",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "06:00",
+      "arrival_time": "07:45"
+    },
+    "price": 4000,
+    "duration": "1h 45m"
+  },
+  {
+    "id": 58,
+    "flight_number": "6E1301",
+    "departure_airport": "CCU",
+    "departure_airport_name": "Netaji Subhas Chandra Bose International Airport",
+    "departure_city": "Kolkata",
+    "arrival_airport": "MAA",
+    "arrival_airport_name": "Chennai International Airport",
+    "arrival_city": "Chennai",
+    "airline": "IndiGo",
+    "schedule": {
+      "departure_time": "09:00",
+      "arrival_time": "10:45"
+    },
+    "price": 3800,
+    "duration": "1h 45m"
+  },
+  {
+    "id": 59,
+    "flight_number": "SG1301",
+    "departure_airport": "CCU",
+    "departure_airport_name": "Netaji Subhas Chandra Bose International Airport",
+    "departure_city": "Kolkata",
+    "arrival_airport": "MAA",
+    "arrival_airport_name": "Chennai International Airport",
+    "arrival_city": "Chennai",
+    "airline": "SpiceJet",
+    "schedule": {
+      "departure_time": "12:00",
+      "arrival_time": "13:45"
+    },
+    "price": 3700,
+    "duration": "1h 45m"
+  },
+  {
+    "id": 60,
+    "flight_number": "AI1401",
+    "departure_airport": "CCU",
+    "departure_airport_name": "Netaji Subhas Chandra Bose International Airport",
+    "departure_city": "Kolkata",
+    "arrival_airport": "BLR",
+    "arrival_airport_name": "Kempegowda International Airport",
+    "arrival_city": "Bengaluru",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "06:00",
+      "arrival_time": "08:30"
+    },
+    "price": 4800,
+    "duration": "2h 30m"
+  },
+  {
+    "id": 61,
+    "flight_number": "6E1401",
+    "departure_airport": "CCU",
+    "departure_airport_name": "Netaji Subhas Chandra Bose International Airport",
+    "departure_city": "Kolkata",
+    "arrival_airport": "BLR",
+    "arrival_airport_name": "Kempegowda International Airport",
+    "arrival_city": "Bengaluru",
+    "airline": "IndiGo",
+    "schedule": {
+      "departure_time": "09:00",
+      "arrival_time": "11:30"
+    },
+    "price": 4600,
+    "duration": "2h 30m"
+  },
+  {
+    "id": 62,
+    "flight_number": "SG1401",
+    "departure_airport": "CCU",
+    "departure_airport_name": "Netaji Subhas Chandra Bose International Airport",
+    "departure_city": "Kolkata",
+    "arrival_airport": "BLR",
+    "arrival_airport_name": "Kempegowda International Airport",
+    "arrival_city": "Bengaluru",
+    "airline": "SpiceJet",
+    "schedule": {
+      "departure_time": "12:00",
+      "arrival_time": "14:30"
+    },
+    "price": 4400,
+    "duration": "2h 30m"
+  },
+  {
+    "id": 63,
+    "flight_number": "AI1501",
+    "departure_airport": "MAA",
+    "departure_airport_name": "Chennai International Airport",
+    "departure_city": "Chennai",
+    "arrival_airport": "DEL",
+    "arrival_airport_name": "Indira Gandhi International Airport",
+    "arrival_city": "Delhi",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "06:00",
+      "arrival_time": "08:30"
+    },
+    "price": 5500,
+    "duration": "2h 30m"
+  },
+  {
+    "id": 64,
+    "flight_number": "6E1501",
+    "departure_airport": "MAA",
+    "departure_airport_name": "Chennai International Airport",
+    "departure_city": "Chennai",
+    "arrival_airport": "DEL",
+    "arrival_airport_name": "Indira Gandhi International Airport",
+    "arrival_city": "Delhi",
+    "airline": "IndiGo",
+    "schedule": {
+      "departure_time": "09:00",
+      "arrival_time": "11:30"
+    },
+    "price": 5200,
+    "duration": "2h 30m"
+  },
+  {
+    "id": 65,
+    "flight_number": "SG1501",
+    "departure_airport": "MAA",
+    "departure_airport_name": "Chennai International Airport",
+    "departure_city": "Chennai",
+    "arrival_airport": "DEL",
+    "arrival_airport_name": "Indira Gandhi International Airport",
+    "arrival_city": "Delhi",
+    "airline": "SpiceJet",
+    "schedule": {
+      "departure_time": "12:00",
+      "arrival_time": "14:30"
+    },
+    "price": 5000,
+    "duration": "2h 30m"
+  },
+  {
+    "id": 66,
+    "flight_number": "AI1601",
+    "departure_airport": "MAA",
+    "departure_airport_name": "Chennai International Airport",
+    "departure_city": "Chennai",
+    "arrival_airport": "BOM",
+    "arrival_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "arrival_city": "Mumbai",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "06:00",
+      "arrival_time": "08:30"
+    },
+    "price": 5800,
+    "duration": "2h 30m"
+  },
+  {
+    "id": 67,
+    "flight_number": "6E1601",
+    "departure_airport": "MAA",
+    "departure_airport_name": "Chennai International Airport",
+    "departure_city": "Chennai",
+    "arrival_airport": "BOM",
+    "arrival_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "arrival_city": "Mumbai",
+    "airline": "IndiGo",
+    "schedule": {
+      "departure_time": "09:00",
+      "arrival_time": "11:30"
+    },
+    "price": 5500,
+    "duration": "2h 30m"
+  },
+  {
+    "id": 68,
+    "flight_number": "SG1601",
+    "departure_airport": "MAA",
+    "departure_airport_name": "Chennai International Airport",
+    "departure_city": "Chennai",
+    "arrival_airport": "BOM",
+    "arrival_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "arrival_city": "Mumbai",
+    "airline": "SpiceJet",
+    "schedule": {
+      "departure_time": "12:00",
+      "arrival_time": "14:30"
+    },
+    "price": 5300,
+    "duration": "2h 30m"
+  },
+  {
+    "id": 69,
+    "flight_number": "UK1601",
+    "departure_airport": "MAA",
+    "departure_airport_name": "Chennai International Airport",
+    "departure_city": "Chennai",
+    "arrival_airport": "BOM",
+    "arrival_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "arrival_city": "Mumbai",
+    "airline": "Vistara",
+    "schedule": {
+      "departure_time": "15:00",
+      "arrival_time": "17:30"
+    },
+    "price": 5600,
+    "duration": "2h 30m"
+  },
+  {
+    "id": 70,
+    "flight_number": "AI1701",
+    "departure_airport": "MAA",
+    "departure_airport_name": "Chennai International Airport",
+    "departure_city": "Chennai",
+    "arrival_airport": "BLR",
+    "arrival_airport_name": "Kempegowda International Airport",
+    "arrival_city": "Bengaluru",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "06:00",
+      "arrival_time": "07:30"
+    },
+    "price": 4500,
+    "duration": "1h 30m"
+  },
+  {
+    "id": 71,
+    "flight_number": "6E1701",
+    "departure_airport": "MAA",
+    "departure_airport_name": "Chennai International Airport",
+    "departure_city": "Chennai",
+    "arrival_airport": "BLR",
+    "arrival_airport_name": "Kempegowda International Airport",
+    "arrival_city": "Bengaluru",
+    "airline": "IndiGo",
+    "schedule": {
+      "departure_time": "09:00",
+      "arrival_time": "10:30"
+    },
+    "price": 4300,
+    "duration": "1h 30m"
+  },
+  {
+    "id": 72,
+    "flight_number": "SG1701",
+    "departure_airport": "MAA",
+    "departure_airport_name": "Chennai International Airport",
+    "departure_city": "Chennai",
+    "arrival_airport": "BLR",
+    "arrival_airport_name": "Kempegowda International Airport",
+    "arrival_city": "Bengaluru",
+    "airline": "SpiceJet",
+    "schedule": {
+      "departure_time": "12:00",
+      "arrival_time": "13:30"
+    },
+    "price": 4100,
+    "duration": "1h 30m"
   }
 ],
   "bookedPackages":[
