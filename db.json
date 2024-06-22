@@ -3690,6 +3690,25 @@
       ]
     },
     {
+      "id": 6,
+      "name": "South India Temple Tour",
+      "description": "Visit the most revered temples of South India with this spiritual journey.",
+      "destination": "Chennai, Madurai, Rameswaram",
+      "price": 16000,
+      "duration": {
+        "days": 6,
+        "nights": 5
+      },
+      "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast"],
+      "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
+      "itinerary": "Day 1: Arrival in Chennai, Day 2: Chennai to Madurai, Day 3: Madurai Sightseeing, Day 4: Madurai to Rameswaram, Day 5: Rameswaram Sightseeing, Day 6: Departure from Rameswaram",
+      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718782385/madurai_zum7q6.jpg", "https://example.com/images/south_india_temple_2.jpg"],
+      "reviews": [
+        {"reviewer": "Karen", "rating": 5, "comment": "Very spiritual and enlightening."},
+        {"reviewer": "Leo", "rating": 4, "comment": "Beautiful temples and well-planned itinerary."}
+      ]
+    },
+    {
       "id": 2,
       "name": "Goa Beach Holiday",
       "description": "Relax and unwind on the beautiful beaches of Goa with this exclusive holiday package.",
@@ -3765,25 +3784,7 @@
         {"reviewer": "Jack", "rating": 4, "comment": "Perfect for adventure enthusiasts."}
       ]
     },
-    {
-      "id": 6,
-      "name": "South India Temple Tour",
-      "description": "Visit the most revered temples of South India with this spiritual journey.",
-      "destination": "Chennai, Madurai, Rameswaram",
-      "price": 16000,
-      "duration": {
-        "days": 6,
-        "nights": 5
-      },
-      "inclusions": ["Accommodation", "Transport", "Sightseeing", "Breakfast"],
-      "exclusions": ["Lunch", "Dinner", "Personal Expenses"],
-      "itinerary": "Day 1: Arrival in Chennai, Day 2: Chennai to Madurai, Day 3: Madurai Sightseeing, Day 4: Madurai to Rameswaram, Day 5: Rameswaram Sightseeing, Day 6: Departure from Rameswaram",
-      "images": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1718782385/madurai_zum7q6.jpg", "https://example.com/images/south_india_temple_2.jpg"],
-      "reviews": [
-        {"reviewer": "Karen", "rating": 5, "comment": "Very spiritual and enlightening."},
-        {"reviewer": "Leo", "rating": 4, "comment": "Beautiful temples and well-planned itinerary."}
-      ]
-    },
+   
     {
       "id": 7,
       "name": "Northeast India Discovery",
