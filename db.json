@@ -3453,7 +3453,7 @@
       "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar"],
       "rating": 4.6,
       "description": "Elegant hotel offering a blend of traditional and modern luxury.",
-      "photos": ["itc1.jpg", "itc2.jpg"],
+      "photos": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1719333479/472133570_bqmmlm.jpg", "https://res.cloudinary.com/dsysrrxod/image/upload/v1719333479/465554665_rwrp3j.jpg","https://res.cloudinary.com/dsysrrxod/image/upload/v1719333479/472131848_zudupg.jpg"],
       "facilities": ["Banquet Hall", "Fitness Center", "Currency Exchange"],
       "nearby_attractions": ["Rashtrapati Bhavan", "Jantar Mantar", "Connaught Place"],
       "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
@@ -3467,7 +3467,7 @@
       "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Sea View"],
       "rating": 4.8,
       "description": "Luxurious hotel with stunning views of the Arabian Sea.",
-      "photos": ["trident1.jpg", "trident2.jpg"],
+      "photos": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1719333621/32810813_f13b82.jpg", "https://res.cloudinary.com/dsysrrxod/image/upload/v1719333621/32810956_x2dhuh.jpg","https://res.cloudinary.com/dsysrrxod/image/upload/v1719333621/32810876_vah5ac.jpg"],
       "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
       "nearby_attractions": ["Gateway of India", "Marine Drive", "Chhatrapati Shivaji Terminus"],
       "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
@@ -3481,7 +3481,7 @@
       "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "City View"],
       "rating": 4.9,
       "description": "Luxury hotel offering world-class services and panoramic views.",
-      "photos": ["oberoi1.jpg", "oberoi2.jpg"],
+      "photos": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1719333774/31552134_fqhone.jpg", "https://res.cloudinary.com/dsysrrxod/image/upload/v1719333774/32810889_cgkcit.jpg","https://res.cloudinary.com/dsysrrxod/image/upload/v1719333773/282554725_bsi97j.jpg"],
       "facilities": ["Valet Parking", "Fitness Center", "Concierge Service"],
       "nearby_attractions": ["Colaba Causeway", "Haji Ali Dargah", "Elephanta Caves"],
       "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
@@ -3495,7 +3495,7 @@
       "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "Sea View"],
       "rating": 4.8,
       "description": "Elegant hotel with magnificent views of the Bandra-Worli Sea Link.",
-      "photos": ["tajlandsend1.jpg", "tajlandsend2.jpg"],
+      "photos": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1719333881/13800549_ni1qhk.jpg", "https://res.cloudinary.com/dsysrrxod/image/upload/v1719333881/13800520_ng0gku.jpg","https://res.cloudinary.com/dsysrrxod/image/upload/v1719333881/40678007_zju9iw.jpg"],
       "facilities": ["Banquet Hall", "Fitness Center", "Conference Rooms"],
       "nearby_attractions": ["Bandra Fort", "Mount Mary Church", "Juhu Beach"],
       "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
@@ -3509,7 +3509,7 @@
       "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "City View"],
       "rating": 4.9,
       "description": "Luxury hotel offering refined elegance and personalized services.",
-      "photos": ["ritz1.jpg", "ritz2.jpg"],
+      "photos": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1719333996/470719638_efwxpr.jpg", "https://res.cloudinary.com/dsysrrxod/image/upload/v1719333996/462332006_ucyhos.jpg","https://res.cloudinary.com/dsysrrxod/image/upload/v1719333996/470722361_kwgcuo.jpg"],
       "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
       "nearby_attractions": ["Cubbon Park", "Lalbagh Botanical Garden", "Bangalore Palace"],
       "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
@@ -3523,7 +3523,7 @@
       "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "Garden View"],
       "rating": 4.8,
       "description": "Heritage hotel with lush gardens and colonial charm.",
-      "photos": ["tajwestend1.jpg", "tajwestend2.jpg"],
+      "photos": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1719334105/545842818_qdz8ti.jpg", "https://res.cloudinary.com/dsysrrxod/image/upload/v1719334105/369550370_odjx61.jpg","https://res.cloudinary.com/dsysrrxod/image/upload/v1719334105/17071475_yx6t02.jpg"],
       "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
       "nearby_attractions": ["Vidhana Soudha", "UB City", "ISKCON Temple"],
       "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
@@ -3537,7 +3537,7 @@
       "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "Eco-friendly"],
       "rating": 4.7,
       "description": "Eco-friendly luxury hotel in the heart of the city.",
-      "photos": ["itcgardenia1.jpg", "itcgardenia2.jpg"],
+      "photos": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1719334226/502745264_edgwvk.jpg", "https://res.cloudinary.com/dsysrrxod/image/upload/v1719334227/506206157_cmfgx5.jpg","https://res.cloudinary.com/dsysrrxod/image/upload/v1719334226/562341813_h6xlse.jpg"],
       "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
       "nearby_attractions": ["Brigade Road", "Commercial Street", "Tipu Sultan's Summer Palace"],
       "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
@@ -3551,7 +3551,7 @@
       "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "Heritage"],
       "rating": 4.9,
       "description": "Iconic hotel blending classical grandeur with modern amenities.",
-      "photos": ["oberoigrand1.jpg", "oberoigrand2.jpg"],
+      "photos": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1719334399/32092064_bcfaos.jpg", "https://res.cloudinary.com/dsysrrxod/image/upload/v1719334398/47175730_hgo5sk.jpg","https://res.cloudinary.com/dsysrrxod/image/upload/v1719334398/46433157_w3o4tk.jpg"],
       "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
       "nearby_attractions": ["Victoria Memorial", "Howrah Bridge", "Eden Gardens"],
       "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
@@ -3565,7 +3565,7 @@
       "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "Garden View"],
       "rating": 4.8,
       "description": "Luxurious hotel offering tranquil gardens and serene ambiance.",
-      "photos": ["itcsonar1.jpg", "itcsonar2.jpg"],
+      "photos": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1719334514/465554645_rweqck.jpg", "https://res.cloudinary.com/dsysrrxod/image/upload/v1719334514/465554655_kaad3r.jpg","https://res.cloudinary.com/dsysrrxod/image/upload/v1719334515/465554643_c9r7pm.jpg"],
       "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
       "nearby_attractions": ["Birla Planetarium", "Indian Museum", "New Market"],
       "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
@@ -3579,7 +3579,7 @@
       "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "City View"],
       "rating": 4.7,
       "description": "Luxury hotel with contemporary architecture and elegant decor.",
-      "photos": ["tajbengal1.jpg", "tajbengal2.jpg"],
+      "photos": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1719334677/176691961_ewloxa.jpg", "https://res.cloudinary.com/dsysrrxod/image/upload/v1719334676/176709864_rdo1wj.jpg","https://res.cloudinary.com/dsysrrxod/image/upload/v1719334675/19058643_xbjgal.jpg"],
       "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
       "nearby_attractions": ["Botanical Gardens", "Science City", "Mother House"],
       "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
