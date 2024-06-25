@@ -3425,7 +3425,7 @@
       "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar"],
       "rating": 4.8,
       "description": "Luxury hotel offering world-class amenities and services in the heart of Delhi .",
-      "photos": ["leela1.jpg", "leela2.jpg"],
+      "photos": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1719073589/leela_palace_tebnyg.jpg", "https://res.cloudinary.com/dsysrrxod/image/upload/v1719073588/2023-03-13_gtahbo.jpg","https://res.cloudinary.com/dsysrrxod/image/upload/v1719073588/unnamed_ohscrv.jpg"],
       "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
       "nearby_attractions": ["India Gate", "Qutub Minar", "Red Fort"],
       "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
@@ -3439,7 +3439,7 @@
       "amenities": ["Free Wi-Fi", "Spa", "Gym", "Restaurant", "Bar"],
       "rating": 4.7,
       "description": "Iconic hotel with exquisite architecture and luxurious services.",
-      "photos": ["taj1.jpg", "taj2.jpg"],
+      "photos": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1719306918/pexels-elmir-jafarov-375483362-19356058_rmzdot.jpg", "https://res.cloudinary.com/dsysrrxod/image/upload/v1719306911/305159686_ubdykx.jpg","https://res.cloudinary.com/dsysrrxod/image/upload/v1719306911/464507594_i3ebsr.jpg"],
       "facilities": ["Business Center", "Valet Parking", "Conference Rooms"],
       "nearby_attractions": ["Humayun's Tomb", "Lotus Temple", "Jama Masjid"],
       "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
