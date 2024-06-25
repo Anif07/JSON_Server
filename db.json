@@ -3424,7 +3424,7 @@
       "price": 15000,
       "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar"],
       "rating": 4.8,
-      "description": "Luxury hotel offering world-class amenities and services in the heart of Delhi.",
+      "description": "Luxury hotel offering world-class amenities and services in the heart of Delhi .",
       "photos": ["leela1.jpg", "leela2.jpg"],
       "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
       "nearby_attractions": ["India Gate", "Qutub Minar", "Red Fort"],
