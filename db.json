@@ -3593,7 +3593,7 @@
       "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "Sea View"],
       "rating": 4.8,
       "description": "Luxury hotel offering world-class amenities and services in the heart of Chennai.",
-      "photos": ["leelachennai1.jpg", "leelachennai2.jpg"],
+      "photos": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1719660827/34213277_nptqb4.jpg", "https://res.cloudinary.com/dsysrrxod/image/upload/v1719660832/46318684_etfdjp.jpg","https://res.cloudinary.com/dsysrrxod/image/upload/v1719660826/46318172_ejnbpn.jpg"],
       "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
       "nearby_attractions": ["Marina Beach", "Fort St. George", "Kapaleeshwarar Temple"],
       "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
@@ -3607,7 +3607,7 @@
       "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "City View"],
       "rating": 4.7,
       "description": "Elegant hotel offering luxurious accommodation and fine dining.",
-      "photos": ["tajcoromandel1.jpg", "tajcoromandel2.jpg"],
+      "photos": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1719660990/217745182_foeb0z.jpg", "https://res.cloudinary.com/dsysrrxod/image/upload/v1719660990/190180919_tbfuju.jpg","https://res.cloudinary.com/dsysrrxod/image/upload/v1719660990/240117692_ne6kkm.jpg"],
       "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
       "nearby_attractions": ["Santhome Cathedral", "Elliot's Beach", "Government Museum"],
       "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
@@ -3621,7 +3621,7 @@
       "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "Palatial"],
       "rating": 4.8,
       "description": "Palatial hotel offering grand architecture and opulent services.",
-      "photos": ["itcgrandchola1.jpg", "itcgrandchola2.jpg"],
+      "photos": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1719661136/465660282_bswmax.jpg", "https://res.cloudinary.com/dsysrrxod/image/upload/v1719661135/465660296_t0oqlc.jpg","https://res.cloudinary.com/dsysrrxod/image/upload/v1719661136/466119857_jvbkl5.jpg"],
       "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
       "nearby_attractions": ["Guindy National Park", "Phoenix Marketcity", "Mahabalipuram"],
       "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
@@ -3635,7 +3635,7 @@
       "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "Beachfront"],
       "rating": 4.9,
       "description": "Beachfront luxury hotel with stunning views of the Arabian Sea.",
-      "photos": ["leelakovalam1.jpg", "leelakovalam2.jpg"],
+      "photos": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1719661264/534112907_bnynob.jpg", "https://res.cloudinary.com/dsysrrxod/image/upload/v1719661269/34223216_ndkozd.jpg","https://res.cloudinary.com/dsysrrxod/image/upload/v1719661264/193459169_tp1u1v.jpg"],
       "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
       "nearby_attractions": ["Lighthouse Beach", "Hawah Beach", "Vizhinjam Rock Cut Cave Temple"],
       "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
@@ -3649,7 +3649,7 @@
       "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "Tropical"],
       "rating": 4.8,
       "description": "Luxury resort set in a lush tropical environment with serene ambiance.",
-      "photos": ["tajgreencove1.jpg", "tajgreencove2.jpg"],
+      "photos": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1719661401/210920329_noryoc.jpg", "https://res.cloudinary.com/dsysrrxod/image/upload/v1719661400/210919210_u7pn0c.jpg","https://res.cloudinary.com/dsysrrxod/image/upload/v1719661400/210920307_dzf7c3.jpg"],
       "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
       "nearby_attractions": ["Samudra Beach", "Karamana River", "Vellayani Lake"],
       "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
@@ -3663,7 +3663,7 @@
       "amenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Restaurant", "Bar", "Boutique"],
       "rating": 4.7,
       "description": "Boutique resort offering a blend of traditional architecture and modern comforts.",
-      "photos": ["niraamaya1.jpg", "niraamaya2.jpg"],
+      "photos": ["https://res.cloudinary.com/dsysrrxod/image/upload/v1719661564/542229978_kq8cfu.jpg", "https://res.cloudinary.com/dsysrrxod/image/upload/v1719661563/133765552_qyrohg.jpg","https://res.cloudinary.com/dsysrrxod/image/upload/v1719661558/185348377_ad970v.jpg"],
       "facilities": ["Business Center", "Fitness Center", "Conference Rooms"],
       "nearby_attractions": ["Vizhinjam Marine Aquarium", "Azhimala Shiva Temple", "Thiruvananthapuram Zoo"],
       "policies": "Check-in: 2 PM, Check-out: 12 PM, Cancellation: Free up to 24 hours before check-in."
