@@ -5424,6 +5424,74 @@
     },
     "price": 5800,
     "duration": "2h 30m"
+  },
+  {
+    "id": 75,
+    "flight_number": "SG325",
+    "departure_airport": "HYD",
+    "departure_airport_name": "Rajiv Gandhi International Airport",
+    "departure_city": "Hyderabad",
+    "arrival_airport": "DEL",
+    "arrival_airport_name": "Indira Gandhi International Airport",
+    "arrival_city": "Delhi",
+    "airline": "SpiceJet",
+    "schedule": {
+      "departure_time": "14:30",
+      "arrival_time": "15:50"
+    },
+    "price": 7200,
+    "duration": "1h 20m"
+  },
+  {
+    "id": 76,
+    "flight_number": "SG325",
+    "departure_airport": "HYD",
+    "departure_airport_name": "Rajiv Gandhi International Airport",
+    "departure_city": "Hyderabad",
+    "arrival_airport": "DEL",
+    "arrival_airport_name": "Indira Gandhi International Airport",
+    "arrival_city": "Delhi",
+    "airline": "Vistara",
+    "schedule": {
+      "departure_time": "16:40",
+      "arrival_time": "20:00"
+    },
+    "price": 3800,
+    "duration": "2h 20m"
+  },
+  {
+    "id": 77,
+    "flight_number": "SG325",
+    "departure_airport": "HYD",
+    "departure_airport_name": "Rajiv Gandhi International Airport",
+    "departure_city": "Hyderabad",
+    "arrival_airport": "DEL",
+    "arrival_airport_name": "Indira Gandhi International Airport",
+    "arrival_city": "Delhi",
+    "airline": "IndiGo",
+    "schedule": {
+      "departure_time": "8:10",
+      "arrival_time": "10:50"
+    },
+    "price": 4500,
+    "duration": "2h 40m"
+  },
+  {
+    "id": 47,
+    "flight_number": "AI1101",
+    "departure_airport": "HYD",
+    "departure_airport_name": "Rajiv Gandhi International Airport",
+    "departure_city": "Hyderabad",
+    "arrival_airport": "BOM",
+    "arrival_airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "arrival_city": "Mumbai",
+    "airline": "Air India",
+    "schedule": {
+      "departure_time": "06:00",
+      "arrival_time": "07:05"
+    },
+    "price": 3000,
+    "duration": "1h 05m"
   }
 ],
   "bookedPackages":[
