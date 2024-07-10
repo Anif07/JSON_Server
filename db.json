@@ -5444,7 +5444,7 @@
   },
   {
     "id": 76,
-    "flight_number": "SG325",
+    "flight_number": "SG395",
     "departure_airport": "HYD",
     "departure_airport_name": "Rajiv Gandhi International Airport",
     "departure_city": "Hyderabad",
@@ -5461,7 +5461,7 @@
   },
   {
     "id": 77,
-    "flight_number": "SG325",
+    "flight_number": "SG385",
     "departure_airport": "HYD",
     "departure_airport_name": "Rajiv Gandhi International Airport",
     "departure_city": "Hyderabad",
@@ -5477,8 +5477,8 @@
     "duration": "2h 40m"
   },
   {
-    "id": 47,
-    "flight_number": "AI1101",
+    "id": 78,
+    "flight_number": "AI1521",
     "departure_airport": "HYD",
     "departure_airport_name": "Rajiv Gandhi International Airport",
     "departure_city": "Hyderabad",
